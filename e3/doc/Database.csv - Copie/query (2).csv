@@ -1,0 +1,545 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-03-22T18:35:31.419Z,18.9371,-80.8103,10,4.6,mb,,42,3.186,1.54,us,us70008e5g,2020-03-23T17:08:10.075Z,"51km SE of East End, Cayman Islands",earthquake,6.4,1.9,0.046,139,reviewed,us,us
+2020-03-16T00:09:14.370Z,10.3587,-62.6053,34.33,4.7,mwr,,39,1.994,0.88,us,us60008g99,2020-03-16T21:33:48.140Z,"23km S of Irapa, Venezuela",earthquake,6.9,4.7,0.054,33,reviewed,us,us
+2020-03-14T15:42:47.602Z,21.1676,-45.8177,10,4.7,mb,,138,22.269,0.63,us,us60008fpd,2020-03-14T17:15:35.040Z,"Northern Mid-Atlantic Ridge",earthquake,10.9,1.8,0.077,51,reviewed,us,us
+2020-03-13T04:46:39.405Z,8.2595,-82.8339,10,5.1,mb,,120,0.503,1.2,us,us60008euj,2020-03-14T04:45:38.772Z,"4km SE of Puerto Armuelles, Panama",earthquake,8.3,1.9,0.024,583,reviewed,us,us
+2020-03-07T02:40:48.337Z,9.0672,-83.1509,39.88,5.2,mww,,101,0.532,1.13,us,us60008bgr,2020-03-13T05:05:25.948Z,"23km ESE of Buenos Aires, Costa Rica",earthquake,6.2,2.5,0.073,18,reviewed,us,us
+2020-03-06T12:40:43.370Z,17.9558,-68.3765,78,4.8,ml,13,203,0.9945,0.29,pr,pr2020066013,2020-03-10T11:35:01.663Z,"47km SSE of Boca de Yuma, Dominican Republic",earthquake,2.43,3.13,0.32,4,reviewed,pr,pr
+2020-03-06T02:44:51.005Z,10.9833,-62.3397,91.16,5,mww,,82,1.325,1.25,us,us60008asl,2020-03-07T23:03:37.114Z,"45km N of Gueiria, Venezuela",earthquake,4,6.8,0.08,15,reviewed,us,us
+2020-02-29T18:16:25.317Z,16.4145,-61.7586,103.02,4.5,mb,,52,0.125,0.89,us,us60008add,2020-03-21T16:42:40.040Z,"11km NW of Sainte-Rose, Guadeloupe",earthquake,5.5,4.4,0.065,73,reviewed,us,us
+2020-02-29T02:25:21.428Z,10.5945,-62.4825,94.11,4.6,mb,,66,1.73,1.04,us,us600086p9,2020-03-25T22:52:27.224Z,"11km ENE of Irapa, Venezuela",earthquake,6.8,6.9,0.062,77,reviewed,us,us
+2020-02-26T16:43:09.174Z,10.8894,-86.5617,10,4.6,mb,,119,1.236,1.13,us,us600084mv,2020-03-05T04:03:19.040Z,"85km WSW of San Juan del Sur, Nicaragua",earthquake,7.2,1.8,0.07,60,reviewed,us,us
+2020-02-25T00:13:31.842Z,13.577,-91.5529,35,4.7,mwr,,136,0.952,0.86,us,us70007w6u,2020-02-25T06:28:45.040Z,"74km SSW of Nueva Concepcion, Guatemala",earthquake,7,2,0.075,17,reviewed,us,us
+2020-02-14T20:16:30.405Z,12.8738,-88.4638,75.67,4.9,mb,,65,1.418,0.98,us,us70007qf8,2020-03-27T20:51:37.040Z,"46km SSE of Puerto El Triunfo, El Salvador",earthquake,6.4,5.3,0.025,498,reviewed,us,us
+2020-02-12T13:05:43.095Z,11.1371,-86.8571,30.63,4.5,mb,,167,1.169,0.5,us,us70007nsg,2020-02-29T13:15:37.040Z,"81km SSW of Masachapa, Nicaragua",earthquake,7.5,4.4,0.09,36,reviewed,us,us
+2020-02-09T08:29:04.615Z,13.1434,-89.1053,69.55,4.8,mww,,112,1.272,0.7,us,us70007lz9,2020-03-18T07:45:09.040Z,"40km SSW of El Rosario, El Salvador",earthquake,4.9,6.6,0.078,16,reviewed,us,us
+2020-02-06T21:10:53.862Z,16.707,-60.9801,28.75,4.6,mb,,114,0.4,0.81,us,us70007k89,2020-02-09T03:53:44.040Z,"45km NNE of Grande Anse, Guadeloupe",earthquake,4.7,6.1,0.157,12,reviewed,us,us
+2020-02-05T13:54:20.532Z,10.9808,-86.5492,35.28,4.7,mb,,155,1.16,0.61,us,us70007j19,2020-02-26T11:58:48.040Z,"80km WSW of San Juan del Sur, Nicaragua",earthquake,7,10.2,0.087,40,reviewed,us,us
+2020-02-05T12:36:44.002Z,10.4997,-86.8703,10,4.9,mb,,136,1.351,0.77,us,us70007j0k,2020-03-06T11:49:26.350Z,"133km W of Sardinal, Costa Rica",earthquake,3.5,1.9,0.026,445,reviewed,us,us
+2020-02-04T14:45:55.720Z,17.8388,-66.8751,7,5,ml,17,239,0.1364,0.19,pr,pr2020035028,2020-02-13T20:15:45.040Z,"20km SSE of Guanica, Puerto Rico",earthquake,1.05,1.24,0,0,reviewed,pr,pr
+2020-02-04T00:10:56.440Z,19.3141,-68.5781,12,4.5,ml,16,281,1.4394,0.88,pr,pr2020035000,2020-02-11T05:23:52.040Z,"38km NNE of Punta Cana, Dominican Republic",earthquake,4.39,31.61,0.51,8,reviewed,pr,pr
+2020-02-03T10:29:55.598Z,10.6521,-86.0078,10,4.5,mb,,165,0.668,0.81,us,us60007nbd,2020-03-02T07:38:06.348Z,"42km WNW of Sardinal, Costa Rica",earthquake,7.5,2,0.087,39,reviewed,us,us
+2020-01-30T18:58:40.951Z,18.936,-80.9582,10,4.7,mb,,43,3.323,1.07,us,us60007kae,2020-02-01T01:24:49.416Z,"43km SSE of East End, Cayman Islands",earthquake,2.7,1.9,0.036,228,reviewed,us,us
+2020-01-29T14:53:14.550Z,19.3791,-78.6607,10,4.9,mww,,58,1.566,0.61,us,us60007j3t,2020-02-19T08:30:51.329Z,"114km NNW of Lucea, Jamaica",earthquake,6,1.9,0.089,12,reviewed,us,us
+2020-01-29T14:27:37.320Z,18.9538,-67.6276,7,4.6,ml,12,189,0.5884,0.97,pr,pr2020029007,2020-02-19T08:20:37.040Z,"75km NW of San Antonio, Puerto Rico",earthquake,4.84,31.61,0.1,6,reviewed,pr,pr
+2020-01-29T02:13:16.512Z,19.0246,-80.7573,10,4.5,mb,,32,3.157,0.76,us,us60007ipt,2020-02-15T00:34:55.203Z,"48km SE of East End, Cayman Islands",earthquake,6.2,1.8,0.062,77,reviewed,us,us
+2020-01-29T00:41:56.268Z,18.9211,-80.8777,10,4.5,mb,,69,3.245,0.92,us,us60007in9,2020-02-11T02:26:26.382Z,"48km SSE of East End, Cayman Islands",earthquake,7.8,1.9,0.054,100,reviewed,us,us
+2020-01-28T23:09:08.813Z,19.0286,-80.8407,12.39,4.5,mb,,101,3.235,0.74,us,us70007k50,2020-02-11T01:50:21.040Z,"41km SE of East End, Cayman Islands",earthquake,7,3.1,0.106,26,reviewed,us,us
+2020-01-28T21:58:57.470Z,18.9865,-80.9146,10,5.4,mb,,102,3.293,0.82,us,us70007k4v,2020-02-10T05:14:20.211Z,"40km SSE of East End, Cayman Islands",earthquake,6,1.8,0.074,63,reviewed,us,us
+2020-01-28T21:55:16.420Z,18.9437,-80.742,10,6.1,mww,,66,3.124,0.85,us,us60007iig,2020-03-29T04:24:34.040Z,"55km SE of East End, Cayman Islands",earthquake,5.8,1.8,0.098,10,reviewed,us,us
+2020-01-28T20:59:59.387Z,19.0623,-80.9069,10,4.9,mb,,34,3.303,0.88,us,us60007ih2,2020-02-22T22:47:03.325Z,"34km SE of East End, Cayman Islands",earthquake,6.7,1.8,0.027,444,reviewed,us,us
+2020-01-28T20:39:45.233Z,19.321,-79.123,10,4.7,mb,,35,1.857,1.16,us,us60007ig2,2020-02-22T22:37:20.763Z,"138km NW of Lucea, Jamaica",earthquake,6.4,1.8,0.036,239,reviewed,us,us
+2020-01-28T19:32:55.673Z,18.8963,-80.6236,10,4.5,mb,,75,3.005,0.98,us,us60007ign,2020-03-05T14:47:13.040Z,"68km SE of East End, Cayman Islands",earthquake,7.5,1.9,0.312,3,reviewed,us,us
+2020-01-28T19:10:24.918Z,19.4193,-78.756,14.86,7.7,mww,,26,1.657,0.75,us,us60007idc,2020-03-27T02:41:33.583Z,"123km NNW of Lucea, Jamaica",earthquake,6,2.9,0.022,199,reviewed,us,us
+2020-01-28T04:24:08.365Z,10.2821,-62.2086,39.99,4.8,mb,,62,1.917,0.65,us,us60007hxa,2020-02-21T01:32:55.386Z,"33km SSE of Guiria, Venezuela",earthquake,7.2,5.5,0.033,277,reviewed,us,us
+2020-01-26T07:24:04.115Z,12.6953,-87.055,163.37,4.7,mb,,143,0.033,0.51,us,us60007gag,2020-02-22T11:36:01.941Z,"11km NE of Chinandega, Nicaragua",earthquake,8.2,7.6,0.034,263,reviewed,us,us
+2020-01-25T20:20:38.640Z,18.0105,-66.8188,13,5,ml,16,158,0.07,0.17,pr,pr2020025008,2020-02-27T03:34:50.040Z,"12km SSE of Indios, Puerto Rico",earthquake,1.12,0.86,0.34,5,reviewed,pr,pr
+2020-01-25T08:00:47.150Z,17.9245,-66.9401,6,4.5,ml,17,222,0.0792,0.1,pr,pr2020025002,2020-03-05T07:15:43.040Z,"13km SSW of Guanica, Puerto Rico",earthquake,0.82,0.37,0.15,13,reviewed,pr,pr
+2020-01-24T23:44:31.014Z,11.3269,-86.7087,35,4.9,mb,,138,0.892,0.85,us,us60007f9k,2020-02-03T03:11:16.040Z,"55km SSW of Masachapa, Nicaragua",earthquake,5.7,2,0.026,471,reviewed,us,us
+2020-01-24T21:59:06.540Z,11.3856,-86.5898,35,5.3,mww,,54,0.789,0.8,us,us60007f5m,2020-02-03T05:58:37.729Z,"45km S of Masachapa, Nicaragua",earthquake,4.1,1.8,0.061,26,reviewed,us,us
+2020-01-23T15:16:03.184Z,12.2004,-88.2414,53.06,4.6,mb,,172,1.29,0.74,us,us60007dvq,2020-03-05T15:56:44.040Z,"104km SW of Jiquilillo, Nicaragua",earthquake,6.9,6.9,0.047,134,reviewed,us,us
+2020-01-21T11:25:34.944Z,8.9887,-83.9831,14.97,5.2,mww,,122,0.871,0.79,us,us60007c1u,2020-03-02T14:14:12.040Z,"50km W of Ciudad Cortes, Costa Rica",earthquake,4.2,4.1,0.047,43,reviewed,us,us
+2020-01-21T09:33:56.399Z,9.043,-83.9471,11.06,5.3,mww,,75,0.882,0.72,us,us60007c00,2020-02-15T11:22:01.040Z,"44km SW of Daniel Flores, Costa Rica",earthquake,6.4,3.3,0.047,43,reviewed,us,us
+2020-01-20T18:00:06.904Z,7.3795,-78.6276,10,4.9,mb,,60,4.258,1,us,us60007bfx,2020-02-05T17:22:39.379Z,"52km WSW of Jaque, Panama",earthquake,6,1.7,0.044,169,reviewed,us,us
+2020-01-20T15:14:54.150Z,17.9618,-66.7425,14,4.5,ml,12,215,0.1373,0.11,pr,pr2020020010,2020-02-19T14:28:45.040Z,"13km S of Tallaboa, Puerto Rico",earthquake,0.64,1.16,0.1,4,reviewed,pr,pr
+2020-01-20T09:36:36.270Z,17.9748,-66.7528,7,4.6,ml,12,195,0.1264,0.15,pr,pr2020020005,2020-02-17T12:31:15.937Z,"8km SSW of Tallaboa, Puerto Rico",earthquake,0.95,0.43,0.2,7,reviewed,pr,pr
+2020-01-20T05:26:19.710Z,17.977,-66.7408,7,4.5,ml,16,192,0.1384,0.22,pr,pr2020020003,2020-02-10T14:25:03.644Z,"1km S of Tallaboa, Puerto Rico",earthquake,1.39,0.62,0.27,3,reviewed,pr,pr
+2020-01-16T12:01:04.818Z,20.3894,-45.591,10,4.6,mb,,61,15.902,0.97,us,us700070wv,2020-02-13T13:42:50.040Z,"Northern Mid-Atlantic Ridge",earthquake,7.4,1.9,0.067,66,reviewed,us,us
+2020-01-16T09:17:50.165Z,20.3541,-45.6742,10,4.7,mb,,103,28.2,0.83,us,us60007j6u,2020-02-17T12:59:09.040Z,"Northern Mid-Atlantic Ridge",earthquake,10.4,1.9,0.085,42,reviewed,us,us
+2020-01-15T15:36:23.850Z,17.9155,-67.0171,5,5.2,mwp,13,245,0.0604,0.18,pr,pr2020015008,2020-03-25T15:31:35.040Z,"6km WSW of Guanica, Puerto Rico",earthquake,1.15,0.42,0,0,reviewed,pr,pr
+2020-01-15T00:17:06.507Z,15.1025,-61.2072,141.05,4.8,mb,,47,0.263,0.75,us,us70006zyx,2020-01-30T23:27:09.040Z,"18km SE of Berekua, Dominica",earthquake,7.1,4.7,0.035,253,reviewed,us,us
+2020-01-14T12:26:41.830Z,17.8548,-66.8686,10,4.6,ml,13,231,0.1208,0.23,pr,pr2020014006,2020-02-08T07:28:31.735Z,"24km SSE of Guanica, Puerto Rico",earthquake,1.3,0.97,0.35,9,reviewed,pr,pr
+2020-01-13T03:05:20.480Z,17.9638,-66.8131,9,4.5,ml,15,194,0.0671,0.14,pr,pr2020013001,2020-02-19T22:48:32.040Z,"10km SSE of Indios, Puerto Rico",earthquake,0.67,0.69,0,0,reviewed,pr,pr
+2020-01-12T10:55:00.350Z,17.9033,-66.8765,7,4.5,ml,14,217,0.1803,0.21,pr,pr2020012007,2020-01-29T10:47:26.040Z,"10km SSE of Guanica, Puerto Rico",earthquake,1.28,1.8,0.29,9,reviewed,pr,pr
+2020-01-12T07:59:56.950Z,17.9556,-66.8865,8,4.9,ml,12,199,0.1583,0.32,pr,pr2020012004,2020-02-20T09:21:03.040Z,"1km SW of Palomas, Puerto Rico",earthquake,1.11,2.07,0,0,reviewed,pr,pr
+2020-01-11T23:49:40.620Z,17.9423,-66.8395,8,4.6,ml,15,201,0.0515,0.28,pr,pr2020011032,2020-01-31T04:52:21.233Z,"11km SSE of Indios, Puerto Rico",earthquake,1.07,0.96,0.23,9,reviewed,pr,pr
+2020-01-11T12:56:22.986Z,17.8238,-66.7941,10,5.2,mb,,190,0.17,0.88,us,us70006ye2,2020-02-08T13:37:32.792Z,"19km S of Indios, Puerto Rico",earthquake,2.2,2,0.087,48,reviewed,us,us
+2020-01-11T12:54:45.910Z,17.949,-66.8508,5,5.9,mwp,12,199,0.1945,0.31,pr,pr2020011010,2020-03-20T15:00:51.552Z,"11km SSE of Indios, Puerto Rico",earthquake,1.11,1.58,0,0,reviewed,pr,pr
+2020-01-11T02:28:21.460Z,17.9923,-66.7946,4,4.8,ml,12,179,0.0863,0.3,pr,pr2020011001,2020-03-13T15:49:45.040Z,"2km S of Magas Arriba, Puerto Rico",earthquake,1.11,1.13,0.09,6,reviewed,pr,pr
+2020-01-11T02:16:50.793Z,13.6003,-91.2661,35,4.9,mb,,79,1.008,1.36,us,us70006y2u,2020-02-08T02:43:35.349Z,"58km SSW of La Gomera, Guatemala",earthquake,6.5,1.9,0.027,437,reviewed,us,us
+2020-01-10T22:26:25.000Z,17.935,-66.883,9,5.2,ml,15,216,0.0403,0.15,pr,pr2020010060,2020-03-27T01:37:35.040Z,"5km SE of Maria Antonia, Puerto Rico",earthquake,0.97,0.67,0.2,5,reviewed,pr,pr
+2020-01-10T16:00:04.088Z,12.7772,-88.6296,35,4.8,mwr,,134,1.571,1.06,us,us70006xke,2020-03-17T18:55:51.415Z,"56km S of Puerto El Triunfo, El Salvador",earthquake,7.9,2,0.066,22,reviewed,us,us
+2020-01-08T20:04:18.060Z,17.915,-66.7035,6,4.7,ml,14,211,0.1606,0.16,pr,pr2020008055,2020-02-12T18:23:30.040Z,"7km SSE of Tallaboa, Puerto Rico",earthquake,0.93,0.96,0.5,8,reviewed,pr,pr
+2020-01-08T14:01:52.308Z,15.1951,-61.3215,145.37,4.9,mww,,41,0.383,0.54,us,us70006wc3,2020-03-06T00:36:01.040Z,"4km S of Berekua, Dominica",earthquake,6.8,5.4,0.098,10,reviewed,us,us
+2020-01-07T19:08:58.441Z,12.2434,-86.4288,202.87,5.2,mww,,26,0.197,0.97,us,us70006vve,2020-03-21T17:13:16.040Z,"13km NW of Ciudad Sandino, Nicaragua",earthquake,5.5,3.5,0.047,43,reviewed,us,us
+2020-01-07T16:27:07.510Z,17.9645,-66.8256,8,4.6,ml,11,203,0.2187,0.25,pr,pr2020007023,2020-03-21T17:13:25.040Z,"6km SW of Tallaboa, Puerto Rico",earthquake,0.99,1.68,0.13,6,reviewed,pr,pr
+2020-01-07T13:00:22.050Z,18.0136,-66.7501,9,4.5,ml,9,184,0.1468,0.14,pr,pr2020007012,2020-03-21T17:13:25.040Z,"5km ESE of Tallaboa, Puerto Rico",earthquake,0.56,3.4,0.12,4,reviewed,pr,pr
+2020-01-07T12:54:42.450Z,17.9315,-66.927,8,4.7,ml,8,219,0.1232,0.15,pr,pr2020007054,2020-03-21T17:13:07.040Z,"3km S of Guanica, Puerto Rico",earthquake,0.75,1.53,0,0,reviewed,pr,pr
+2020-01-07T11:18:43.540Z,18.0223,-66.776,9,5.6,mwp,10,177,0.171,0.08,pr,pr2020007010,2020-03-25T04:13:08.527Z,"8km SSW of Tallaboa, Puerto Rico",earthquake,0.84,1.26,0,0,reviewed,pr,pr
+2020-01-07T09:42:11.867Z,17.9128,-66.6898,10,4.7,mb,,69,0.151,0.56,us,us60007c6b,2020-03-26T17:28:13.034Z,"9km SSE of Tallaboa, Puerto Rico",earthquake,2.4,1.9,0.102,29,reviewed,us,us
+2020-01-07T08:50:45.778Z,17.9418,-66.6754,10,5,mww,,28,0.12,1.07,us,us70006vmj,2020-03-21T17:13:09.040Z,"7km SE of Tallaboa, Puerto Rico",earthquake,3.4,1.8,0.089,12,reviewed,us,us
+2020-01-07T08:34:01.979Z,17.8919,-66.7217,10,5.6,mww,,40,0.186,1.25,us,us70006vm9,2020-03-21T17:13:09.040Z,"11km S of Tallaboa, Puerto Rico",earthquake,2.1,1.8,0.075,17,reviewed,us,us
+2020-01-07T08:30:55.306Z,17.9206,-66.767,10,4.6,ml,,212,0.195,0.89,us,us60007c6s,2020-03-21T17:13:09.040Z,"9km SE of Indios, Puerto Rico",earthquake,1.1,1.9,0.081,20,reviewed,us,us
+2020-01-07T08:29:49.410Z,17.8685,-66.7029,10,5,mb,,46,0.196,1.23,us,us70006vmc,2020-03-21T17:13:23.040Z,"14km S of Tallaboa, Puerto Rico",earthquake,3.2,1.9,0.188,11,reviewed,us,us
+2020-01-07T08:24:25.043Z,17.8624,-66.8291,7.42,6.4,mww,,25,0.121,0.65,us,us70006vll,2020-03-25T04:02:38.584Z,"13km S of Indios, Puerto Rico",earthquake,3.4,3,0.049,40,reviewed,us,us
+2020-01-06T14:51:17.270Z,17.9075,-66.799,6,4.9,ml,11,232,0.1049,0.16,pr,pr2020006017,2020-03-21T17:13:07.040Z,"8km SSW of Tallaboa, Puerto Rico",earthquake,1.1,0.69,0.31,8,reviewed,pr,pr
+2020-01-06T10:32:18.770Z,17.8675,-66.8193,6,5.8,mwp,19,227,0.1231,0.29,pr,pr2020006006,2020-03-21T17:13:07.040Z,"9km SE of Indios, Puerto Rico",earthquake,1.7,1.14,0,0,reviewed,pr,pr
+2020-01-03T15:28:54.137Z,11.7392,-86.2862,106.87,5.5,mww,,74,0.408,1.1,us,us70006u7m,2020-03-21T17:13:16.040Z,"7km W of Santa Teresa, Nicaragua",earthquake,6.5,3,0.044,50,reviewed,us,us
+2020-01-03T03:41:15.230Z,17.9006,-66.8261,2,4.7,ml,19,214,0.2287,0.19,pr,pr2020003002,2020-03-21T17:13:20.040Z,"8km S of Indios, Puerto Rico",earthquake,0.91,0.72,0,0,reviewed,pr,pr
+2020-01-02T20:42:02.330Z,17.9148,-66.8333,7,4.5,ml,20,210,0.0758,0.21,pr,pr2020002036,2020-03-21T17:13:16.040Z,"5km SW of Tallaboa, Puerto Rico",earthquake,1.04,0.7,0.16,12,reviewed,pr,pr
+2020-01-02T03:35:22.502Z,12.628,-88.13,51.52,4.6,mb,,87,1.084,0.95,us,us70006tej,2020-03-21T17:13:32.040Z,"63km S of Intipuca, El Salvador",earthquake,6.4,5.2,0.035,247,reviewed,us,us
+2019-12-30T18:58:20.221Z,7.2683,-78.7006,10,4.6,mb,,61,4.229,0.69,us,us70006sll,2020-03-14T22:23:05.040Z,"64km WSW of Jaque, Panama",earthquake,8.9,1.9,0.067,66,reviewed,us,us
+2019-12-29T01:21:14.590Z,17.9308,-66.8363,3,4.7,ml,17,205,0.0617,0.18,pr,pr2019363003,2020-03-14T22:23:44.040Z,"11km SSE of Maria Antonia, Puerto Rico",earthquake,0.86,0.53,0.29,13,reviewed,pr,pr
+2019-12-29T01:06:00.130Z,17.8846,-66.864,6,5,ml,18,222,0.1992,0.24,pr,pr2019363002,2020-03-14T22:23:45.040Z,"9km S of Indios, Puerto Rico",earthquake,1.36,0.96,0,0,reviewed,pr,pr
+2019-12-28T22:35:37.830Z,17.9371,-66.8661,6,4.7,ml,17,204,0.0402,0.23,pr,pr2019362024,2020-03-14T22:23:51.040Z,"11km SSE of Guanica, Puerto Rico",earthquake,1.02,0.58,0.41,13,reviewed,pr,pr
+2019-12-27T01:37:45.465Z,16.8394,-60.9055,30.51,4.5,mwr,,82,0.539,1.01,us,us70006re9,2020-03-14T22:24:19.040Z,"61km NNE of Grande Anse, Guadeloupe",earthquake,5.3,3.3,0.048,41,reviewed,us,us
+2019-12-24T01:45:35.733Z,9.5176,-81.9491,10,4.6,mb,,126,1.024,0.94,us,us70006qe8,2020-03-14T22:25:22.040Z,"31km NE of Isla Bastimentos, Panama",earthquake,3.8,1.8,0.182,9,reviewed,us,us
+2019-12-24T00:25:09.970Z,10.8563,-86.4757,35,4.7,mb,,129,1.148,0.92,us,us70006qdf,2020-03-14T22:25:22.040Z,"79km WSW of San Juan del Sur, Nicaragua",earthquake,7.8,2,0.031,318,reviewed,us,us
+2019-12-24T00:24:13.258Z,10.8972,-86.4727,35,4.5,mb,,193,1.171,0.79,us,us70006qda,2020-03-14T22:25:23.040Z,"76km WSW of San Juan del Sur, Nicaragua",earthquake,3.4,2,0.066,68,reviewed,us,us
+2019-12-21T17:47:27.576Z,13.1106,-88.7354,81.27,4.5,mb,,86,1.417,1.06,us,us70006ph7,2020-03-07T17:47:42.040Z,"27km SW of Puerto El Triunfo, El Salvador",earthquake,6,2.9,0.051,121,reviewed,us,us
+2019-12-21T02:06:00.329Z,13.7226,-91.3966,35,4.5,mb,,184,0.848,1.38,us,us70006pb2,2020-03-07T17:47:39.040Z,"53km S of Nueva Concepcion, Guatemala",earthquake,6.8,2,0.065,68,reviewed,us,us
+2019-12-20T03:08:52.430Z,15.4263,-91.8267,204.56,4.5,mb,,128,0.33,0.86,us,us70006nwm,2020-03-07T17:47:36.040Z,"6km W of Ixtahuacan, Guatemala",earthquake,7.9,5.5,0.083,43,reviewed,us,us
+2019-12-19T14:41:54.884Z,13.6368,-91.2958,25.19,4.8,mb,,154,0.963,1.25,us,us70006nhs,2020-03-07T17:47:35.040Z,"56km SSW of La Gomera, Guatemala",earthquake,8.1,5.5,0.032,309,reviewed,us,us
+2019-12-19T12:39:11.130Z,13.6727,-91.2935,35,5.1,mb,,103,0.932,1.36,us,us70006ngc,2020-03-07T17:47:34.040Z,"52km SSW of La Gomera, Guatemala",earthquake,6.5,1.9,0.057,101,reviewed,us,us
+2019-12-19T12:35:31.287Z,13.7354,-91.2255,21,5.9,mww,,58,0.907,1.41,us,us70006ng5,2020-03-27T14:06:23.893Z,"42km SSW of La Gomera, Guatemala",earthquake,7.3,1.6,0.034,85,reviewed,us,us
+2019-12-15T19:42:55.366Z,12.5453,-86.8725,166.97,4.6,mb,,130,0.075,0.72,us,us60006rvv,2020-03-04T21:27:06.040Z,"2km NNW of Telica, Nicaragua",earthquake,7.1,6.4,0.094,34,reviewed,us,us
+2019-12-14T07:27:01.421Z,12.9159,-90.4331,10,4.5,mb,,190,1.805,1.32,us,us60006rfn,2020-03-04T21:27:01.040Z,"99km SW of Acajutla, El Salvador",earthquake,6.1,1.9,0.104,27,reviewed,us,us
+2019-12-13T14:23:38.168Z,10.3837,-86.0839,36.25,4.6,mb,,176,0.578,1.36,us,us60006rx4,2020-03-04T21:27:07.040Z,"49km WSW of Sardinal, Costa Rica",earthquake,5.7,12.3,0.044,155,reviewed,us,us
+2019-12-13T06:40:44.796Z,12.1586,-86.4837,173.45,4.6,mb,,126,0.209,0.68,us,us60006qxh,2020-03-04T21:26:57.040Z,"14km SE of Nagarote, Nicaragua",earthquake,5.2,4.4,0.107,26,reviewed,us,us
+2019-12-09T06:12:23.208Z,19.0781,-80.4369,10,5,mww,,25,0.675,0.87,us,us60006p4t,2020-02-29T19:52:44.040Z,"75km ESE of East End, Cayman Islands",earthquake,6.4,1.9,0.065,23,reviewed,us,us
+2019-12-08T18:31:42.871Z,10.1239,-85.794,35,4.8,mww,,151,0.254,0.81,us,us60006ny8,2020-02-29T19:52:47.040Z,"27km WSW of Santa Cruz, Costa Rica",earthquake,3.7,2,0.078,16,reviewed,us,us
+2019-12-07T07:40:42.671Z,7.2898,-79.7036,10,4.9,mb,,116,1.869,0.81,us,us60006nh1,2020-02-29T19:53:00.040Z,"45km SE of Pedasi, Panama",earthquake,7.3,1.9,0.064,77,reviewed,us,us
+2019-12-05T15:11:45.251Z,13.9515,-91.931,40.55,4.6,mb,,130,0.614,1,us,us60006mf1,2020-02-29T19:52:56.040Z,"38km S of Champerico, Guatemala",earthquake,6.4,7,0.034,263,reviewed,us,us
+2019-12-03T13:37:58.957Z,12.7846,-88.5609,49.37,4.9,mb,,125,1.505,0.81,us,us70006fit,2020-02-29T19:52:56.040Z,"55km S of Puerto El Triunfo, El Salvador",earthquake,6.7,1.3,0.027,439,reviewed,us,us
+2019-11-30T07:44:21.562Z,13.8429,-91.893,19,5.7,mww,,157,0.704,1.17,us,us70006eqm,2020-02-19T18:58:23.040Z,"50km S of Champerico, Guatemala",earthquake,7.4,1.9,0.054,33,reviewed,us,us
+2019-11-29T15:08:44.700Z,18.9836,-67.1885,37,4.78,ml,23,202,0.5219,0.82,pr,pr2019333005,2020-02-19T18:58:20.040Z,"51km N of San Antonio, Puerto Rico",earthquake,3.01,12.6,0.11,10,reviewed,pr,pr
+2019-11-27T04:03:41.911Z,7.1888,-77.0113,35,4.5,mb,,61,3.418,0.92,us,us60006pcg,2020-02-19T18:57:54.040Z,"30km SSE of Riosucio, Colombia",earthquake,7.2,1.9,0.205,7,reviewed,us,us
+2019-11-25T01:33:40.409Z,10.2809,-84.6841,79.33,4.9,mww,,96,0.12,1.13,us,us70006clb,2020-02-14T22:02:19.040Z,"12km SW of Pocosol, Costa Rica",earthquake,5.3,3.5,0.061,26,reviewed,us,us
+2019-11-23T15:56:01.721Z,12.3509,-88.2483,44.26,4.6,mb,,90,1.246,0.89,us,us70006c7v,2020-02-14T22:02:15.040Z,"95km SSW of Intipuca, El Salvador",earthquake,7.6,7.3,0.053,113,reviewed,us,us
+2019-11-21T19:01:47.866Z,13.5661,-91.0786,35,4.5,mb,,123,1.125,1.21,us,us70006b84,2020-02-14T22:02:10.040Z,"48km SW of Puerto San Jose, Guatemala",earthquake,6.3,1.9,0.059,83,reviewed,us,us
+2019-11-19T00:10:45.953Z,12.4069,-60.2615,58.19,4.7,mb,,114,1.002,0.51,us,us700069ps,2020-02-14T22:02:04.040Z,"103km SW of Bridgetown, Barbados",earthquake,5.6,7.9,0.038,207,reviewed,us,us
+2019-11-13T16:28:52.886Z,13.6755,-90.9373,45,5.5,mww,,48,1.119,1.29,us,us60006b3s,2020-02-07T20:20:39.040Z,"30km SSW of Puerto San Jose, Guatemala",earthquake,6.5,1.8,0.065,23,reviewed,us,us
+2019-11-12T21:35:06.516Z,12.9265,-88.4934,60.26,5.1,mww,,45,1.454,0.96,us,us60006av9,2020-02-07T20:20:27.040Z,"39km S of Puerto El Triunfo, El Salvador",earthquake,5.6,4.2,0.055,32,reviewed,us,us
+2019-11-11T16:03:57.808Z,12.4739,-88.1507,35,4.6,mb,,161,1.125,1.06,us,us60006a8e,2020-02-01T23:22:23.040Z,"80km S of Intipuca, El Salvador",earthquake,6.2,2,0.042,172,reviewed,us,us
+2019-11-09T08:32:52.323Z,14.5086,-90.2743,200,5.5,mww,,101,0.891,1.01,us,us600069n1,2020-02-01T23:22:08.040Z,"9km WSW of Mataquescuintla, Guatemala",earthquake,7.7,1.9,0.038,65,reviewed,us,us
+2019-11-08T08:11:17.773Z,10.6489,-62.0307,51.04,4.6,mb,,81,1.519,1,us,us60006924,2020-02-01T23:21:56.040Z,"30km ENE of Gueiria, Venezuela",earthquake,7.3,8.4,0.111,24,reviewed,us,us
+2019-11-06T21:05:06.254Z,12.2994,-87.9902,35,4.6,mb,,167,1.025,1.32,us,us70006465,2020-02-01T23:21:42.040Z,"76km SW of Jiquilillo, Nicaragua",earthquake,4.7,2,0.165,11,reviewed,us,us
+2019-11-06T20:38:48.654Z,11.9199,-88.1578,10,4.8,mb,,153,1.352,1.22,us,us70006453,2020-02-01T23:21:42.040Z,"119km SW of Jiquilillo, Nicaragua",earthquake,7.5,1.9,0.041,182,reviewed,us,us
+2019-11-06T14:04:05.451Z,12.2257,-88.0608,40.39,4.5,mb,,164,1.118,0.54,us,us700063xp,2020-02-01T23:21:41.040Z,"87km SW of Jiquilillo, Nicaragua",earthquake,8.2,16.6,0.092,35,reviewed,us,us
+2019-11-06T00:41:35.371Z,21.2403,-45.7581,10,4.5,mb,,116,23.615,1.37,us,us60006bhs,2020-02-01T23:21:38.040Z,"Northern Mid-Atlantic Ridge",earthquake,9.1,1.9,0.132,17,reviewed,us,us
+2019-11-02T17:40:06.944Z,11.262,-86.8603,41.09,4.5,mb,,156,1.025,0.66,us,us700062cc,2020-01-18T20:00:55.040Z,"69km SSW of Masachapa, Nicaragua",earthquake,3.7,10,0.057,91,reviewed,us,us
+2019-11-01T15:24:10.098Z,11.7141,-86.5773,35,5.4,mww,,121,0.498,1.1,us,us7000620i,2020-01-18T20:00:53.040Z,"10km SW of Masachapa, Nicaragua",earthquake,6.1,1.9,0.042,55,reviewed,us,us
+2019-10-27T14:17:13.808Z,12.7675,-89.89,24.01,4.6,mb,,168,1.701,1.01,us,us600063lq,2020-01-11T21:26:48.040Z,"91km S of Acajutla, El Salvador",earthquake,7.1,6.3,0.074,55,reviewed,us,us
+2019-10-25T15:02:17.312Z,12.5128,-88.3299,64.61,4.6,mb,,172,1.29,0.85,us,us600062wl,2020-01-11T21:26:38.040Z,"80km SSW of Chirilagua, El Salvador",earthquake,5.1,9.7,0.056,95,reviewed,us,us
+2019-10-25T00:37:45.422Z,12.1389,-87.8947,35,4.5,mb,,169,1.017,0.78,us,us600062rf,2020-01-11T21:26:36.040Z,"82km SW of Jiquilillo, Nicaragua",earthquake,3.2,2,0.057,89,reviewed,us,us
+2019-10-24T10:05:23.947Z,7.9333,-82.5484,10,4.5,mb,,72,0.866,0.97,us,us60006246,2020-01-11T21:26:34.040Z,"36km ESE of Punta de Burica, Panama",earthquake,6.3,1.9,0.056,94,reviewed,us,us
+2019-10-22T00:14:54.804Z,15.1013,-45.0177,10,4.8,mb,,108,12.443,1.06,us,us700061mi,2020-01-11T21:26:21.040Z,"Northern Mid-Atlantic Ridge",earthquake,12,1.9,0.096,33,reviewed,us,us
+2019-10-21T08:55:25.678Z,13.2,-90.2509,41.15,4.7,mwr,,86,1.472,0.78,us,us70005wmf,2020-01-03T16:09:42.040Z,"63km SW of Acajutla, El Salvador",earthquake,6.2,5,0.083,14,reviewed,us,us
+2019-10-14T19:28:19.427Z,10.5098,-62.4466,92.9,4.9,mb,,137,1.79,0.76,us,us70005u58,2019-12-28T20:46:02.040Z,"16km ESE of Irapa, Venezuela",earthquake,8.5,7.9,0.103,30,reviewed,us,us
+2019-10-14T14:47:37.524Z,16.8207,-46.3224,10,4.7,mb,,104,13.185,1.22,us,us70005x6c,2019-12-28T20:46:23.040Z,"Northern Mid-Atlantic Ridge",earthquake,9.4,1.8,0.129,18,reviewed,us,us
+2019-10-13T02:53:14.189Z,12.8542,-89.8563,35,4.5,mb,,182,1.609,1.21,us,us70005tt1,2019-12-28T20:45:48.040Z,"81km S of Acajutla, El Salvador",earthquake,7.2,2,0.036,231,reviewed,us,us
+2019-10-10T02:46:49.096Z,11.3241,-86.6884,23.9,4.6,mb,,64,0.886,0.94,us,us70005sv9,2019-12-28T20:45:53.040Z,"54km SSW of Masachapa, Nicaragua",earthquake,3.6,5.1,0.043,162,reviewed,us,us
+2019-10-07T01:02:14.451Z,19.5716,-64.5717,10,4.6,mb,,48,1.866,0.83,us,us70005rgt,2019-12-27T15:51:01.040Z,"127km N of Road Town, British Virgin Islands",earthquake,6.2,1.9,0.069,62,reviewed,us,us
+2019-10-06T15:10:44.220Z,19.6966,-64.5655,15,4.96,md,29,228,2.0566,0.44,pr,pr2019279014,2019-12-27T15:50:54.040Z,"116km N of Road Town, British Virgin Islands",earthquake,1.93,5.13,0.35,23,reviewed,pr,pr
+2019-10-02T12:52:54.570Z,8.5721,-82.9022,14.3,4.6,mb,,87,0.305,0.75,us,us70005psl,2019-12-27T15:49:54.040Z,"8km SSE of Corredor, Costa Rica",earthquake,6,6,0.222,6,reviewed,us,us
+2019-09-29T21:00:00.595Z,12.8691,-90.2389,10,5.2,mww,,112,1.744,0.95,us,us70005nlt,2019-12-20T19:03:52.040Z,"91km SSW of Acajutla, El Salvador",earthquake,6.5,1.9,0.089,12,reviewed,us,us
+2019-09-29T20:25:08.764Z,12.8181,-90.2825,10,4.5,mb,,213,1.809,1.13,us,us70005nlq,2019-12-20T19:03:51.040Z,"98km SSW of Acajutla, El Salvador",earthquake,9.6,2,0.074,53,reviewed,us,us
+2019-09-29T17:52:17.556Z,18.1191,-47.1393,10,4.8,mb,,155,14.012,0.61,us,us70005s4s,2019-12-20T19:04:34.040Z,"Northern Mid-Atlantic Ridge",earthquake,13,1.6,0.063,77,reviewed,us,us
+2019-09-29T11:19:59.671Z,11.9723,-73.6923,10,4.9,mww,,68,0.958,1.2,us,us70005ngk,2019-12-20T19:03:43.040Z,"87km NNW of Dibulla, Colombia",earthquake,6,1.9,0.075,17,reviewed,us,us
+2019-09-27T03:51:38.530Z,19.092,-67.2023,8,4.7,ml,23,209,0.6311,0.43,pr,pr2019270000,2019-12-20T19:03:09.040Z,"61km N of Isabela, Puerto Rico",earthquake,1.65,31.61,0.38,14,reviewed,pr,pr
+2019-09-25T00:12:09.810Z,19.086,-67.2033,12,4.84,md,27,208,0.6253,0.4,pr,pr2019268001,2019-12-20T19:02:22.040Z,"68km N of San Antonio, Puerto Rico",earthquake,1.64,31.61,0.53,19,reviewed,pr,pr
+2019-09-24T03:32:41.200Z,19.0225,-67.2081,5,5.06,ml,204,,0.6459,0.57,pr,pr2019267004,2019-12-20T19:01:58.040Z,"55km NNW of San Antonio, Puerto Rico",earthquake,3.27,31.61,0.18,19,reviewed,pr,pr
+2019-09-24T03:23:40.000Z,19.077,-67.2701,10,6,mw,25,193,0.6299,0.88,pr,pr2019267000,2020-03-24T03:33:53.175Z,"69km NNW of San Antonio, Puerto Rico",earthquake,3.8,31.61,0.51,25,reviewed,pr,pr
+2019-09-21T22:51:11.416Z,11.9877,-87.7532,35,4.6,mb,,146,1.004,0.78,us,us60005lv5,2019-12-10T17:27:02.040Z,"83km SW of Corinto, Nicaragua",earthquake,6.1,2,0.079,47,reviewed,us,us
+2019-09-18T11:23:28.381Z,9.455,-84.0087,48.39,4.6,mb,,133,0.284,0.73,us,us70005hui,2019-12-10T17:27:10.040Z,"17km ENE of Quepos, Costa Rica",earthquake,4.5,7,0.126,19,reviewed,us,us
+2019-09-18T04:58:52.215Z,9.8171,-82.8466,10,4.8,mb,,80,0.326,0.93,us,us70005hrz,2019-12-10T17:27:09.040Z,"28km SE of Puerto Limon, Costa Rica",earthquake,3.3,1.7,0.059,88,reviewed,us,us
+2019-09-15T06:59:17.238Z,13.6518,-91.4585,35,5.2,mww,,132,0.897,0.83,us,us70005glk,2019-12-05T18:31:06.040Z,"63km SSW of Nueva Concepcion, Guatemala",earthquake,4,1.8,0.068,21,reviewed,us,us
+2019-09-13T16:27:19.334Z,14.9256,-61.5452,162.71,4.8,mb,,34,0.378,0.94,us,us70005fy3,2019-12-05T18:31:03.040Z,"39km SSW of Pointe Michel, Dominica",earthquake,6.9,5.1,0.036,242,reviewed,us,us
+2019-09-10T14:16:46.649Z,12.9014,-88.7959,62.5,5,mww,,120,1.586,0.95,us,us70005e4e,2019-12-05T18:30:54.040Z,"49km SSW of Puerto El Triunfo, El Salvador",earthquake,6.6,7.6,0.069,20,reviewed,us,us
+2019-09-10T13:40:58.831Z,23.6561,-44.8836,10,4.8,mb,,83,16.865,0.81,us,us70005e3v,2019-12-05T18:30:53.040Z,"Northern Mid-Atlantic Ridge",earthquake,7.5,1.9,0.039,203,reviewed,us,us
+2019-09-09T18:44:52.072Z,17.723,-47.1452,10,4.6,mb,,69,12.804,1.36,us,us70005dsn,2019-11-30T19:36:33.040Z,"Northern Mid-Atlantic Ridge",earthquake,8.3,1.9,0.052,110,reviewed,us,us
+2019-09-09T18:05:17.123Z,10.5125,-64.4206,10,5.4,mww,,29,3.154,0.71,us,us70005drn,2019-11-30T19:36:33.040Z,"19km WSW of Araya, Venezuela",earthquake,6.9,1.8,0.047,44,reviewed,us,us
+2019-09-06T13:28:21.943Z,12.9688,-88.7285,57.54,4.9,mwr,,127,1.548,0.94,us,us70005crr,2019-11-30T19:37:04.040Z,"39km SSW of Puerto El Triunfo, El Salvador",earthquake,3.1,6.2,0.066,22,reviewed,us,us
+2019-09-05T17:09:34.447Z,12.6952,-88.7892,35,4.5,mb,,179,1.725,1.25,us,us70005gyt,2019-11-30T19:36:14.040Z,"70km SSW of Puerto El Triunfo, El Salvador",earthquake,7.8,2,0.145,14,reviewed,us,us
+2019-09-02T22:45:48.807Z,23.7766,-45.2169,10,5.9,mww,,40,16.631,0.61,us,us70005b9q,2019-11-15T17:22:04.040Z,"Northern Mid-Atlantic Ridge",earthquake,9.8,1.8,0.051,37,reviewed,us,us
+2019-08-31T08:45:14.180Z,19.1518,-63.9471,7,4.9,ml,23,221,1.405,0.71,pr,pr2019243005,2019-11-15T17:20:53.040Z,"90km NE of Road Town, British Virgin Islands",earthquake,4.44,2.98,0.38,21,reviewed,pr,pr
+2019-08-30T05:57:17.292Z,23.766,-45.4462,10,5.3,mww,,85,16.434,0.65,us,us70005a2x,2019-11-15T17:20:26.040Z,"Northern Mid-Atlantic Ridge",earthquake,10.6,1.9,0.073,18,reviewed,us,us
+2019-08-30T05:37:09.892Z,8.4329,-82.9716,7.4,4.8,mb,,111,0.344,0.64,us,us70005a2n,2019-11-15T17:20:25.040Z,"12km WNW of Finca Blanco Numero Uno, Panama",earthquake,6.7,5.3,0.096,33,reviewed,us,us
+2019-08-28T23:17:23.898Z,8.3854,-82.8822,21.92,4.5,mb,,80,0.433,0.91,us,us700059e4,2019-11-15T17:19:44.040Z,"1km W of Finca Blanco Numero Uno, Panama",earthquake,4.6,4.9,0.073,56,reviewed,us,us
+2019-08-27T15:58:58.343Z,12.5183,-88.6667,44.4,4.7,mb,,152,1.616,0.63,us,us700058t2,2019-11-15T17:18:52.040Z,"85km S of Puerto El Triunfo, El Salvador",earthquake,7.7,10.2,0.042,176,reviewed,us,us
+2019-08-22T21:19:40.820Z,12.026,-87.9049,35,4.9,mww,,136,1.091,0.78,us,us700057a3,2019-11-08T22:13:41.040Z,"93km SSW of Jiquilillo, Nicaragua",earthquake,5.9,2,0.103,9,reviewed,us,us
+2019-08-19T11:37:02.606Z,12.555,-87.5718,78.7,4.8,mb,,129,0.555,0.8,us,us600056y1,2019-11-02T15:26:17.040Z,"24km SSW of Jiquilillo, Nicaragua",earthquake,5.9,5.5,0.027,432,reviewed,us,us
+2019-08-19T10:45:31.651Z,10.4978,-62.6845,10,4.6,mb,,86,1.913,0.91,us,us600056xy,2019-11-02T15:26:17.040Z,"13km SW of Irapa, Venezuela",earthquake,7.8,1.9,0.091,36,reviewed,us,us
+2019-08-17T12:34:34.501Z,12.2066,-87.9631,35,4.8,mb,,108,1.041,1.06,us,us600056en,2019-11-02T15:26:11.040Z,"81km SW of Jiquilillo, Nicaragua",earthquake,3.2,2,0.028,400,reviewed,us,us
+2019-08-12T12:25:50.435Z,10.4874,-86.145,42.6,4.5,mb,,199,1.189,0.84,us,us600053zu,2019-10-29T20:34:05.040Z,"54km W of Sardinal, Costa Rica",earthquake,8.4,12.6,0.05,117,reviewed,us,us
+2019-08-09T17:03:59.384Z,13.1355,-89.448,63.72,4.5,mwr,,139,1.258,1.08,us,us600052ya,2019-10-29T20:33:50.040Z,"41km SSW of La Libertad, El Salvador",earthquake,6.6,7.5,0.078,16,reviewed,us,us
+2019-08-06T21:14:10.860Z,10.3499,-84.2603,104.44,4.9,mb,,42,0.353,0.98,us,us600051le,2019-10-29T20:33:39.040Z,"11km S of Pital, Costa Rica",earthquake,6,4,0.056,99,reviewed,us,us
+2019-08-01T17:55:02.152Z,21.0358,-45.6928,10,4.9,mb,,63,19.392,1.07,us,us60004ypx,2019-10-19T21:42:03.040Z,"Northern Mid-Atlantic Ridge",earthquake,11.2,1.9,0.036,246,reviewed,us,us
+2019-07-31T05:54:53.150Z,13.1476,-89.3951,43,5.9,mww,,36,1.244,1.31,us,us60004xtc,2019-10-19T21:42:00.040Z,"38km SSW of La Libertad, El Salvador",earthquake,5.9,1.9,0.032,93,reviewed,us,us
+2019-07-29T17:44:28.074Z,13.0135,-89.5053,35,4.5,mb,,202,1.384,1.39,us,us60004x35,2019-10-11T20:12:49.040Z,"56km SSW of La Libertad, El Salvador",earthquake,6.8,2,0.051,112,reviewed,us,us
+2019-07-29T04:43:38.406Z,9.6691,-81.9203,10,4.7,mww,,58,1.153,0.98,us,us60004wx9,2019-10-11T20:12:48.040Z,"47km NNE of Isla Bastimentos, Panama",earthquake,5.5,1.7,0.089,12,reviewed,us,us
+2019-07-28T16:02:11.300Z,18.5533,-68.9601,144,4.7,mb,27,169,0.771,0.47,pr,pr2019209005,2019-10-11T20:12:45.040Z,"7km N of La Romana, Dominican Republic",earthquake,3.45,2.34,0.6,24,reviewed,pr,pr
+2019-07-25T10:15:09.124Z,16.0531,-60.9795,10,4.6,mb,,96,0.271,0.87,us,us60004vbf,2019-10-11T20:12:29.040Z,"29km SSE of Grande Anse, Guadeloupe",earthquake,5.4,1.9,0.041,182,reviewed,us,us
+2019-07-22T22:31:11.562Z,10.9471,-86.4749,36.06,4.6,mb,,156,1.558,0.88,us,us70004qwh,2019-10-04T16:37:39.040Z,"74km WSW of San Juan del Sur, Nicaragua",earthquake,5,8.2,0.047,135,reviewed,us,us
+2019-07-22T01:08:56.185Z,15.6945,-91.0462,10,4.5,mb,,69,0.577,0.7,us,us70004qaj,2019-10-04T16:37:35.040Z,"11km SSE of San Luis Ixcan, Guatemala",earthquake,5.5,1.9,0.041,175,reviewed,us,us
+2019-07-20T02:10:46.344Z,13.816,-91.3467,35,4.6,mb,,172,0.781,1.34,us,us70004pha,2019-10-04T16:37:24.040Z,"42km S of Nueva Concepcion, Guatemala",earthquake,7.7,2,0.033,268,reviewed,us,us
+2019-07-14T01:57:16.256Z,15.7229,-91.0273,10,4.8,mww,,56,0.609,1.25,us,us70004jvb,2019-09-28T20:01:20.040Z,"10km SE of San Luis Ixcan, Guatemala",earthquake,4.3,1.9,0.059,28,reviewed,us,us
+2019-07-13T02:39:02.626Z,10.0982,-73.132,130.36,4.6,mb,,72,1.508,1.31,us,us70004jg6,2019-09-28T20:01:17.040Z,"13km ENE of Agustin Codazzi, Colombia",earthquake,7.9,7.3,0.033,284,reviewed,us,us
+2019-07-13T01:40:22.013Z,13.5788,-91.052,35,4.5,mb,,174,1.128,1.3,us,us70004jfh,2019-09-28T20:01:17.040Z,"45km SSW of Puerto San Jose, Guatemala",earthquake,7.3,2,0.036,232,reviewed,us,us
+2019-07-13T01:36:09.745Z,13.6501,-90.9716,35,4.6,mb,,131,1.117,1.18,us,us70004jfe,2019-09-28T20:01:17.040Z,"34km SSW of Puerto San Jose, Guatemala",earthquake,8,2,0.033,276,reviewed,us,us
+2019-07-11T17:17:30.580Z,15.5968,-49.9588,10,5.1,mb,,114,9.616,1.07,us,us70004p46,2019-09-28T20:01:29.040Z,"North Atlantic Ocean",earthquake,9.4,1.8,0.052,119,reviewed,us,us
+2019-07-10T03:05:53.086Z,13.0929,-89.5139,54.02,4.8,mwr,,138,1.467,0.64,us,us70004gj7,2019-09-28T20:01:05.040Z,"48km SSW of La Libertad, El Salvador",earthquake,7.4,6.4,0.08,15,reviewed,us,us
+2019-07-08T00:09:02.790Z,10.8415,-85.6324,59.13,5.1,mww,,51,0.863,0.97,us,us70004ed6,2019-09-26T14:30:56.040Z,"25km S of La Cruz, Costa Rica",earthquake,5,4.2,0.054,33,reviewed,us,us
+2019-07-07T13:17:54.268Z,8.8309,-84.3712,10,4.5,mb,,219,0.974,0.67,us,us70004dx9,2019-09-26T14:30:53.040Z,"69km SSW of Quepos, Costa Rica",earthquake,5.9,1.9,0.088,38,reviewed,us,us
+2019-07-07T10:58:01.273Z,19.4076,-46.0489,10,4.6,mb,,90,14.624,0.92,us,us70004mbs,2019-09-26T14:31:08.040Z,"Northern Mid-Atlantic Ridge",earthquake,7.3,1.9,0.146,14,reviewed,us,us
+2019-07-07T10:52:58.377Z,18.7815,-46.0839,10,4.9,mb,,57,14.959,0.7,us,us70004dul,2019-09-26T14:30:52.040Z,"Northern Mid-Atlantic Ridge",earthquake,6.1,1.8,0.058,94,reviewed,us,us
+2019-07-06T13:54:54.424Z,23.6233,-44.7152,10,4.5,mb,,217,16.995,1.33,us,us70004lk8,2019-09-26T14:31:07.040Z,"Northern Mid-Atlantic Ridge",earthquake,10.2,2,0.172,10,reviewed,us,us
+2019-07-03T09:39:26.638Z,12.5337,-87.6902,82.13,4.7,mb,,154,0.673,0.69,us,us7000496i,2019-09-26T14:30:05.040Z,"34km SW of Jiquilillo, Nicaragua",earthquake,6.5,7,0.027,417,reviewed,us,us
+2019-07-03T00:55:09.799Z,15.5701,-90.9159,10,4.5,mb,,88,0.618,0.81,us,us7000491e,2019-09-26T14:30:03.040Z,"15km NE of Chajul, Guatemala",earthquake,9.1,2,0.045,149,reviewed,us,us
+2019-07-01T19:45:26.613Z,21.8894,-45.1346,10,4.7,mb,,238,16.527,0.86,us,us70004hwk,2019-09-14T16:08:39.040Z,"Northern Mid-Atlantic Ridge",earthquake,17.2,2,0.117,22,reviewed,us,us
+2019-07-01T05:33:10.057Z,10.5046,-86.0633,35,4.5,mb,,131,1.113,0.98,us,us700047w7,2019-09-14T16:08:25.040Z,"45km W of Sardinal, Costa Rica",earthquake,2.7,2,0.045,145,reviewed,us,us
+2019-06-30T06:37:54.020Z,18.436,-68.8531,113,4.5,ml,22,168,0.9172,0.77,pr,pr2019181008,2019-09-14T16:08:21.040Z,"15km ENE of La Romana, Dominican Republic",earthquake,4.11,3.37,0.33,19,reviewed,pr,pr
+2019-06-27T13:36:16.462Z,8.4078,-82.806,37.12,4.5,mb,,143,0.401,1.11,us,us700045wq,2019-09-14T16:08:13.040Z,"1km NW of La Esperanza, Panama",earthquake,9.2,14.3,0.54,1,reviewed,us,us
+2019-06-26T19:12:33.721Z,8.6574,-82.8366,37.06,4.6,mb,,227,0.2,1.25,us,us700045mp,2019-09-14T16:08:11.040Z,"8km SSW of Plaza de Caisan, Panama",earthquake,8.8,7,0.129,18,reviewed,us,us
+2019-06-26T05:23:51.514Z,8.4612,-82.754,32.58,6.2,mww,,42,0.337,1.12,us,us7000455l,2020-03-27T13:53:11.569Z,"5km ESE of Aserrio de Gariche, Panama",earthquake,6.1,4,0.031,100,reviewed,us,us
+2019-06-23T15:42:29.005Z,7.3503,-81.1944,13.12,4.6,mb,,134,2.06,0.58,us,us600044vi,2019-09-11T15:19:37.040Z,"69km SW of Las Minas, Panama",earthquake,7.4,3.2,0.049,125,reviewed,us,us
+2019-06-21T19:53:33.715Z,14.6995,-45.0885,10,4.6,mb,,165,12.087,0.44,us,us700046s7,2019-09-11T15:19:27.040Z,"Northern Mid-Atlantic Ridge",earthquake,8.9,1.8,0.096,32,reviewed,us,us
+2019-06-18T16:26:20.214Z,10.5237,-86.0915,10,4.9,mb,,140,1.144,0.73,us,us600042js,2019-09-11T15:19:08.040Z,"48km W of Sardinal, Costa Rica",earthquake,7.3,1.9,0.03,351,reviewed,us,us
+2019-06-18T16:12:22.193Z,10.5767,-86.0839,10,4.9,mb,,149,1.148,0.93,us,us600042k3,2019-09-11T15:19:08.040Z,"48km W of Sardinal, Costa Rica",earthquake,7.6,1.9,0.038,224,reviewed,us,us
+2019-06-14T20:44:54.048Z,15.3851,-46.5768,10,5.2,mww,,85,11.825,0.45,us,us600040yl,2019-09-06T14:25:06.040Z,"Northern Mid-Atlantic Ridge",earthquake,9.5,1.9,0.068,21,reviewed,us,us
+2019-06-14T11:37:52.285Z,11.7419,-87.2144,35,4.5,mb,,96,0.906,0.72,us,us600040p5,2019-09-06T14:25:05.040Z,"76km W of Masachapa, Nicaragua",earthquake,6.3,1.9,0.045,146,reviewed,us,us
+2019-06-13T03:31:12.130Z,14.4642,-90.3759,208.04,4.7,mb,,125,0.985,0.7,us,us6000408k,2019-09-06T14:25:01.040Z,"7km E of Fraijanes, Guatemala",earthquake,7.1,6.9,0.056,99,reviewed,us,us
+2019-06-11T18:49:45.654Z,16.9815,-85.4857,10,4.6,mb,,77,3.379,0.89,us,us70003y70,2019-09-06T14:25:33.040Z,"70km NNE of Savannah Bight, Honduras",earthquake,7,1.9,0.046,143,reviewed,us,us
+2019-06-10T09:44:36.690Z,13.5772,-44.9137,10,4.8,mb,,72,11.353,0.4,us,us70003xlm,2019-08-27T17:48:06.040Z,"Northern Mid-Atlantic Ridge",earthquake,13,1.9,0.049,131,reviewed,us,us
+2019-06-10T09:38:05.492Z,13.4279,-44.7552,10,4.9,mb,,83,11.352,0.92,us,us70003xlc,2019-08-27T17:48:06.040Z,"Northern Mid-Atlantic Ridge",earthquake,11.3,1.9,0.048,236,reviewed,us,us
+2019-06-10T09:12:18.942Z,13.0499,-88.5673,72.37,5.1,mww,,124,1.546,1.43,us,us70003xl5,2019-10-31T18:38:50.849Z,"25km S of Puerto El Triunfo, El Salvador",earthquake,6.6,6.8,0.048,42,reviewed,us,us
+2019-06-01T01:44:17.800Z,13.053,-89.3427,56.84,4.5,mb,,169,1.338,1.18,us,us70003u0r,2019-08-24T21:17:42.040Z,"48km S of La Libertad, El Salvador",earthquake,7.2,8.8,0.041,173,reviewed,us,us
+2019-05-31T19:29:07.979Z,10.6905,-62.5334,67.6,4.6,mb,,132,1.672,0.65,us,us70003tvh,2019-08-24T21:17:40.040Z,"14km NNE of Irapa, Venezuela",earthquake,9.4,7.8,0.194,8,reviewed,us,us
+2019-05-30T09:03:32.337Z,13.1994,-89.3056,57.92,6.6,mww,,22,1.193,0.83,us,us70003t2n,2019-10-31T18:34:19.776Z,"32km S of La Libertad, El Salvador",earthquake,1.7,5.5,0.073,18,reviewed,us,us
+2019-05-22T04:13:28.605Z,14.0378,-91.3177,63.03,4.5,mb,,177,0.606,0.74,us,us60003qhe,2019-08-13T14:30:29.040Z,"18km S of Nueva Concepcion, Guatemala",earthquake,8.5,9.1,0.057,91,reviewed,us,us
+2019-05-16T22:30:55.318Z,12.0142,-89.0699,10,4.8,mb,,98,2.113,0.75,us,us70003mbd,2019-08-07T22:03:43.040Z,"151km SSW of Puerto El Triunfo, El Salvador",earthquake,7.5,1.9,0.032,304,reviewed,us,us
+2019-05-16T16:28:37.563Z,12.5829,-87.9456,62.8,4.9,mb,,90,0.909,1.09,us,us60003rbt,2019-08-07T22:03:24.040Z,"56km WSW of Jiquilillo, Nicaragua",earthquake,9.3,6.9,0.062,80,reviewed,us,us
+2019-05-16T16:22:17.474Z,12.6436,-87.8168,71.96,5.9,mww,,42,1.501,1.35,us,us70003m2q,2019-08-07T22:03:42.040Z,"41km WSW of Jiquilillo, Nicaragua",earthquake,7.9,4.4,0.039,63,reviewed,us,us
+2019-05-14T16:14:29.351Z,12.5013,-87.036,151.77,4.5,mb,,131,0.194,0.92,us,us70003l2h,2019-08-07T22:03:35.040Z,"7km SW of Posoltega, Nicaragua",earthquake,6.8,3.2,0.054,101,reviewed,us,us
+2019-05-13T01:01:53.932Z,9.6696,-84.33,40.73,4.5,mb,,149,0.328,0.85,us,us70003k5w,2019-08-01T17:15:15.040Z,"13km SW of Tejar, Costa Rica",earthquake,6.8,7.5,0.059,84,reviewed,us,us
+2019-05-12T21:11:39.319Z,14.8677,-45.035,10,4.8,mb,,66,12.255,0.72,us,us70003k4c,2019-08-01T17:15:14.040Z,"Northern Mid-Atlantic Ridge",earthquake,10.7,1.9,0.038,209,reviewed,us,us
+2019-05-12T19:24:50.373Z,8.625,-82.8298,19,6,mww,,53,0.218,1.09,us,us70003k3p,2020-03-27T13:50:59.765Z,"10km N of Canoas, Costa Rica",earthquake,5,1.7,0.036,75,reviewed,us,us
+2019-05-12T08:18:38.163Z,15.4758,-78.145,10,4.5,mb,,36,2.796,1.08,us,us70003jzx,2019-08-01T17:15:13.040Z,"271km SSW of Rocky Point, Jamaica",earthquake,7.2,1.9,0.041,175,reviewed,us,us
+2019-05-09T17:23:23.993Z,11.8233,-86.5256,87.43,4.5,mb,,129,0.381,0.92,us,us70003iy3,2019-08-01T17:15:07.040Z,"4km NNW of Masachapa, Nicaragua",earthquake,5.9,4.8,0.044,152,reviewed,us,us
+2019-05-05T20:12:43.092Z,12.7893,-88.5215,73.3,4.6,mb,,153,1.466,1,us,us70003h3p,2019-07-25T18:54:22.040Z,"54km S of Puerto El Triunfo, El Salvador",earthquake,8.1,9.8,0.043,161,reviewed,us,us
+2019-05-03T21:30:43.116Z,9.2998,-83.2187,10,4.6,mb,,122,0.668,1.27,us,us70003ggz,2019-07-25T18:54:13.040Z,"19km NE of Buenos Aires, Costa Rica",earthquake,4.3,1.9,0.076,51,reviewed,us,us
+2019-05-01T11:31:18.190Z,13.7922,-45.5312,10,4.6,mb,,68,11.116,0.63,us,us70003f3f,2019-07-25T18:54:04.040Z,"Northern Mid-Atlantic Ridge",earthquake,7.3,1.9,0.053,106,reviewed,us,us
+2019-04-30T20:52:22.590Z,15.3014,-46.4221,10,5.4,mww,,47,11.832,0.8,us,us70003evi,2019-07-25T18:54:03.040Z,"Northern Mid-Atlantic Ridge",earthquake,9,1.8,0.068,21,reviewed,us,us
+2019-04-30T08:06:51.718Z,23.6401,-63.0768,10,4.6,mb,,127,5.562,0.85,us,us70003ehc,2019-07-25T18:54:01.040Z,"North Atlantic Ocean",earthquake,7.9,1.9,0.03,324,reviewed,us,us
+2019-04-28T17:48:22.052Z,9.305,-63.0678,23.34,4.9,mww,,80,3.134,1.2,us,us70003dgt,2019-07-13T18:42:49.040Z,"50km SSE of Maturin, Venezuela",earthquake,3.5,4.3,0.089,12,reviewed,us,us
+2019-04-28T07:43:46.092Z,16.7696,-86.113,10,5.1,mww,,32,2.919,0.75,us,us70003dbt,2019-07-13T18:42:48.040Z,"45km NW of Savannah Bight, Honduras",earthquake,5.1,1.9,0.073,18,reviewed,us,us
+2019-04-23T16:41:30.722Z,13.7205,-45.5539,10,4.6,mb,,190,14.866,0.69,us,us70003ft9,2019-07-13T18:42:53.040Z,"Northern Mid-Atlantic Ridge",earthquake,10,1.9,0.126,19,reviewed,us,us
+2019-04-19T13:36:08.165Z,11.9226,-86.9322,61.94,4.9,mww,,39,0.617,0.85,us,us70003965,2019-06-26T20:54:56.040Z,"46km W of Carlos Fonseca Amador, Nicaragua",earthquake,5.6,4.5,0.089,12,reviewed,us,us
+2019-04-16T04:04:50.240Z,14.4449,-90.7312,79.12,4.5,mb,,150,0.936,0.58,us,us700036ss,2019-06-26T20:54:41.040Z,"5km NW of Palin, Guatemala",earthquake,5.8,9.2,0.15,13,reviewed,us,us
+2019-04-12T19:24:30.911Z,21.3642,-45.9208,10,4.9,mb,,73,15.189,0.91,us,us70003559,2019-06-20T19:03:26.040Z,"Northern Mid-Atlantic Ridge",earthquake,10.5,1.8,0.037,233,reviewed,us,us
+2019-04-12T00:48:37.214Z,7.8319,-82.6567,10,4.6,mb,,148,0.872,0.92,us,us700034qh,2019-06-20T19:03:19.040Z,"32km SE of Punta de Burica, Panama",earthquake,7.2,1.9,0.052,111,reviewed,us,us
+2019-04-10T20:23:56.321Z,10.8389,-86.3957,14.52,4.5,mb,,187,1.275,1.01,us,us7000340t,2019-06-20T19:03:13.040Z,"73km SW of San Juan del Sur, Nicaragua",earthquake,6.9,5.3,0.106,26,reviewed,us,us
+2019-04-08T22:25:42.595Z,12.5442,-89.1985,35,5,mb,,63,1.85,1.33,us,us2000kcll,2019-06-18T15:50:57.040Z,"105km S of La Libertad, El Salvador",earthquake,6.5,1.9,0.026,460,reviewed,us,us
+2019-04-07T06:43:26.751Z,11.3518,-86.6918,35,4.9,mb,,103,0.863,0.83,us,us2000kbpj,2019-06-18T15:50:40.040Z,"51km SSW of Masachapa, Nicaragua",earthquake,5.5,2,0.027,435,reviewed,us,us
+2019-04-03T13:55:54.959Z,11.3227,-85.5541,190.84,4.6,mb,,151,0.741,0.65,us,us700034i3,2019-06-18T15:50:12.040Z,"14km NNW of Cardenas, Nicaragua",earthquake,5.3,9.2,0.152,13,reviewed,us,us
+2019-04-01T13:44:48.692Z,9.4698,-82.6453,10,4.7,mb,,106,0.672,0.84,us,us2000k8iz,2019-06-08T20:51:31.040Z,"4km SW of Guabito, Panama",earthquake,2.4,1.9,0.065,72,reviewed,us,us
+2019-03-29T04:07:20.564Z,12.1848,-89.3492,10,4.6,mb,,196,2.2,0.89,us,us2000k6xj,2019-06-08T20:51:22.040Z,"144km S of La Libertad, El Salvador",earthquake,8.6,2,0.055,98,reviewed,us,us
+2019-03-27T23:48:48.070Z,12.5169,-89.1644,10,4.6,mb,,137,1.88,0.85,us,us2000k678,2019-06-08T20:51:18.040Z,"107km SW of Puerto El Triunfo, El Salvador",earthquake,6.5,1.9,0.057,91,reviewed,us,us
+2019-03-26T19:07:24.730Z,12.426,-89.2513,10,4.7,mb,,116,1.964,1.21,us,us1000jlxq,2019-06-08T20:51:14.040Z,"117km S of La Libertad, El Salvador",earthquake,4.9,1.8,0.05,121,reviewed,us,us
+2019-03-26T15:28:42.170Z,12.4705,-89.2804,10,4.6,mb,,217,1.918,0.55,us,us2000k9ny,2019-06-08T20:51:33.040Z,"112km S of La Libertad, El Salvador",earthquake,10.4,2,0.109,25,reviewed,us,us
+2019-03-26T15:26:53.440Z,12.5638,-89.095,10,4.8,mb,,184,1.842,1.16,us,us1000jlst,2019-06-08T20:51:13.040Z,"99km SW of Puerto El Triunfo, El Salvador",earthquake,7.4,2,0.053,111,reviewed,us,us
+2019-03-26T15:01:45.610Z,12.548,-89.1671,10,4.9,mb,,179,1.849,0.96,us,us1000jlsb,2019-06-08T20:51:13.040Z,"105km SW of Puerto El Triunfo, El Salvador",earthquake,4.7,1.9,0.036,237,reviewed,us,us
+2019-03-26T12:01:47.542Z,12.5488,-89.1992,8,5.5,mww,,41,1.845,0.91,us,us1000jlpq,2019-06-08T20:51:13.040Z,"104km S of La Libertad, El Salvador",earthquake,5.9,1.7,0.034,83,reviewed,us,us
+2019-03-24T16:19:47.500Z,12.3736,-86.8321,145.76,4.5,mb,,171,0.181,0.42,us,us1000jl0d,2019-06-06T18:54:24.040Z,"8km SE of Leon, Nicaragua",earthquake,6.8,6.6,0.065,70,reviewed,us,us
+2019-03-24T09:30:01.419Z,12.0851,-86.7566,87.82,5.3,mww,,93,0.416,1.23,us,us1000jkxw,2019-06-06T18:54:22.040Z,"28km SW of Nagarote, Nicaragua",earthquake,5.8,4.1,0.039,64,reviewed,us,us
+2019-03-20T19:13:03.480Z,15.2353,-44.9433,10,5,mb,,47,12.598,0.89,us,us1000jjfx,2019-06-06T18:54:07.040Z,"Northern Mid-Atlantic Ridge",earthquake,10.1,1.8,0.04,203,reviewed,us,us
+2019-03-12T13:08:57.170Z,17.93,-66.1798,13,4.6,ml,21,210,0.0811,0.47,pr,pr2019071006,2020-03-27T10:42:24.861Z,"14km SSW of Jobos, Puerto Rico",earthquake,2.13,1.31,0.28,15,reviewed,pr,pr
+2019-03-12T09:47:11.574Z,10.6524,-85.9771,18.31,4.6,mwr,,79,1.069,1.2,us,us1000je2c,2019-06-01T21:24:11.040Z,"39km WNW of Sardinal, Costa Rica",earthquake,6.3,3.8,0.089,12,reviewed,us,us
+2019-03-07T03:53:04.450Z,13.4665,-44.8453,10,4.9,mb,,152,11.323,0.49,us,us1000jbpl,2019-05-24T21:21:11.040Z,"Northern Mid-Atlantic Ridge",earthquake,14.4,1.9,0.058,93,reviewed,us,us
+2019-03-06T01:48:09.360Z,10.9848,-74.7834,47.23,4.5,mb,,51,4.589,1.11,us,us1000jb2l,2019-05-24T21:21:07.040Z,"2km NNE of Barranquilla, Colombia",earthquake,3.1,6.6,0.124,19,reviewed,us,us
+2019-03-01T03:21:52.630Z,11.0077,-86.3351,35,4.5,mb,,183,1.103,1.04,us,us1000j946,2019-05-14T18:36:14.040Z,"57km WSW of San Juan del Sur, Nicaragua",earthquake,5,2,0.046,136,reviewed,us,us
+2019-03-01T02:01:28.610Z,13.6651,-88.4866,200.8,4.5,mb,,166,1.118,0.83,us,us1000j93r,2019-05-14T18:36:14.040Z,"14km WSW of Sesori, El Salvador",earthquake,9.8,9,0.083,42,reviewed,us,us
+2019-02-27T13:53:23.040Z,15.3486,-91.7524,195.41,4.5,mb,,56,0.243,0.77,us,us2000jpji,2019-05-14T18:36:33.040Z,"5km SW of San Gaspar Ixchil, Guatemala",earthquake,7.9,3.2,0.108,25,reviewed,us,us
+2019-02-25T22:29:17.720Z,12.9916,-88.7166,63.5,4.5,mb,,78,1.532,1.11,us,us2000jn4i,2019-05-11T17:40:53.040Z,"36km SSW of Puerto El Triunfo, El Salvador",earthquake,7.3,6.1,0.059,84,reviewed,us,us
+2019-02-24T23:58:54.300Z,12.7449,-88.513,53.65,4.5,mb,,125,1.428,1.07,us,us2000jmky,2019-05-11T17:40:50.040Z,"59km S of Puerto El Triunfo, El Salvador",earthquake,6,8.3,0.051,112,reviewed,us,us
+2019-02-24T03:07:35.090Z,12.5784,-89.2273,35,4.5,mb,,162,1.814,1.16,us,us2000jm9u,2019-05-11T17:40:48.040Z,"101km S of La Libertad, El Salvador",earthquake,7.1,1.9,0.062,76,reviewed,us,us
+2019-02-22T17:12:40.800Z,8.4104,-82.9052,15.72,4.6,mb,,137,1.979,0.94,us,us1000jahq,2019-05-11T17:40:33.040Z,"5km NW of Finca Blanco Numero Uno, Panama",earthquake,7.3,5.6,0.096,36,reviewed,us,us
+2019-02-18T23:38:06.820Z,19.4898,-64.8938,87,4.8,md,23,232,1.6517,0.5,pr,pr2019049011,2019-05-01T22:01:03.040Z,"117km NNW of Road Town, British Virgin Islands",earthquake,4.77,10.44,0.3,17,reviewed,pr,pr
+2019-02-12T21:32:41.280Z,13.852,-47.192,10,4.8,mb,,60,10.214,0.69,us,us2000jgwu,2019-05-01T22:00:36.040Z,"Northern Mid-Atlantic Ridge",earthquake,8.6,1.9,0.081,47,reviewed,us,us
+2019-02-11T00:08:48.720Z,13.1988,-87.7188,192.61,4.7,mww,,59,0.821,0.67,us,us2000jg5r,2019-04-25T15:32:06.040Z,"12km SW of Amapala, Honduras",earthquake,6.5,4.5,0.08,15,reviewed,us,us
+2019-02-10T22:52:53.750Z,10.24,-62.3438,10,4.6,mb,,103,1.998,0.89,us,us2000jg41,2019-04-25T15:32:06.040Z,"31km NNW of Pedernales, Venezuela",earthquake,6.6,1.9,0.069,63,reviewed,us,us
+2019-02-04T14:33:48.810Z,18.1358,-68.5523,74,5.3,ml,22,189,0.4149,0.8,pr,pr2019035005,2019-05-02T12:46:58.572Z,"32km SSE of Boca de Yuma, Dominican Republic",earthquake,7.21,6.13,0.42,14,reviewed,pr,pr
+2019-01-31T13:09:52.950Z,8.9424,-83.7749,12.92,4.9,mwr,,91,1.084,1.12,us,us2000jb93,2019-04-18T19:09:26.040Z,"27km W of Ciudad Cortes, Costa Rica",earthquake,5.6,3.9,0.071,19,reviewed,us,us
+2019-01-31T04:40:30.060Z,13.4929,-88.3489,191.85,5,mww,,124,1.186,0.86,us,us2000jb2y,2019-04-18T19:09:25.040Z,"0km S of Chinameca, El Salvador",earthquake,7.7,5.1,0.056,31,reviewed,us,us
+2019-01-30T11:41:02.470Z,12.3767,-87.7238,59.35,4.5,mb,,128,0.73,0.52,us,us1000is0e,2019-04-18T19:09:23.040Z,"50km SW of Jiquilillo, Nicaragua",earthquake,6.8,8,0.038,207,reviewed,us,us
+2019-01-29T22:52:52.000Z,12.8627,-88.2812,68.4,4.5,mb,,134,1.212,0.9,us,us1000irta,2019-04-18T19:09:21.040Z,"42km SSW of Chirilagua, El Salvador",earthquake,5.9,6.6,0.068,63,reviewed,us,us
+2019-01-29T06:48:54.060Z,13.4789,-91.8141,53.94,4.5,mb,,154,1.045,1.42,us,us2000j9z8,2019-04-18T19:09:12.040Z,"91km S of Champerico, Guatemala",earthquake,3.8,9.1,0.052,107,reviewed,us,us
+2019-01-25T15:10:42.157Z,12.7535,-44.8918,10,4.6,mb,,123,15.613,0.98,us,us2000jerw,2019-04-12T17:17:05.040Z,"Northern Mid-Atlantic Ridge",earthquake,7.8,2,0.172,10,reviewed,us,us
+2019-01-24T16:20:01.930Z,12.9743,-89.0867,79.45,4.6,mb,,138,1.44,0.87,us,us2000j8cp,2019-04-12T17:14:39.040Z,"58km S of El Rosario, El Salvador",earthquake,6.5,8.8,0.052,113,reviewed,us,us
+2019-01-23T10:44:48.800Z,10.6804,-62.9008,107.78,4.5,mb,,92,1.891,0.76,us,us2000j7rh,2019-04-12T17:14:13.040Z,"14km NNW of Yaguaraparo, Venezuela",earthquake,8.3,7.6,0.135,16,reviewed,us,us
+2019-01-21T14:42:48.210Z,15.764,-61.6503,11.42,4.5,mb,,80,0.091,0.51,us,us2000j6u9,2019-04-05T21:41:02.040Z,"9km S of Terre-de-Bas, Guadeloupe",earthquake,4,5.8,0.314,3,reviewed,us,us
+2019-01-20T14:05:29.580Z,13.135,-81.0719,10,4.5,mb,,61,0.371,1.43,us,us2000j6mc,2019-04-05T21:41:01.040Z,"40km SE of Mountain, Colombia",earthquake,5.6,1.9,0.057,90,reviewed,us,us
+2019-01-16T00:39:33.510Z,19.4966,-68.2711,84,4.5,md,20,211,0.9888,0.39,pr,pr2019016000,2019-04-05T21:40:56.040Z,"89km ENE of Miches, Dominican Republic",earthquake,3.38,7.01,0.19,15,reviewed,pr,pr
+2019-01-15T06:25:53.000Z,10.4999,-63.1354,10,4.5,mb,,64,2.177,0.62,us,us2000j41e,2019-04-05T21:40:58.040Z,"4km SSE of El Pilar, Venezuela",earthquake,6.4,1.9,0.059,84,reviewed,us,us
+2019-01-15T04:59:24.250Z,10.4753,-63.0995,10,4.9,mb,,64,2.173,0.5,us,us2000j40z,2019-04-05T21:40:58.040Z,"8km SE of El Pilar, Venezuela",earthquake,7.9,1.9,0.04,194,reviewed,us,us
+2019-01-15T03:41:03.360Z,11.2646,-86.6365,28.16,5.3,mww,,69,0.918,1.08,us,us2000j40f,2019-04-05T21:40:58.040Z,"59km SSW of Masachapa, Nicaragua",earthquake,5.6,3.4,0.052,36,reviewed,us,us
+2019-01-15T03:10:53.400Z,12.536,-87.6458,80.44,4.5,mb,,104,0.603,0.79,us,us2000j408,2019-04-05T21:40:58.040Z,"31km SW of Jiquilillo, Nicaragua",earthquake,6.8,6.2,0.051,115,reviewed,us,us
+2019-01-10T02:04:22.540Z,8.4648,-73.3433,128.95,4.6,mb,,78,2.568,0.94,us,us2000j8tk,2019-04-02T20:53:25.040Z,"9km NNE of Gonzalez, Colombia",earthquake,4.9,9.4,0.122,20,reviewed,us,us
+2019-01-07T17:41:46.230Z,10.4629,-63.0537,10,4.8,mb,,71,2.153,0.56,us,us2000j15k,2019-03-08T17:50:19.040Z,"13km SE of El Pilar, Venezuela",earthquake,5.3,1.9,0.068,66,reviewed,us,us
+2019-01-07T05:08:04.910Z,10.4888,-63.164,20.48,4.6,mb,,64,2.204,1.06,us,us2000j0zl,2019-03-08T17:50:18.040Z,"5km SSW of El Pilar, Venezuela",earthquake,5.9,5.2,0.056,96,reviewed,us,us
+2019-01-05T17:08:31.460Z,14.9017,-91.4809,148.06,4.5,mb,,83,0.414,0.73,us,us2000j0ig,2019-03-08T17:50:16.040Z,"0km NE of San Andres Xecul, Guatemala",earthquake,5.1,4.8,0.046,140,reviewed,us,us
+2019-01-05T11:19:27.340Z,12.9217,-88.6519,75.48,4.6,mb,,138,1.578,0.55,us,us2000j0hj,2019-03-08T17:50:16.040Z,"41km SSW of Puerto El Triunfo, El Salvador",earthquake,7.9,8.7,0.044,156,reviewed,us,us
+2019-01-04T14:32:57.510Z,10.9342,-61.37,10,4.9,ml,,84,1.222,1.26,us,us2000j0qg,2019-03-08T17:50:17.040Z,"31km NE of Petit Valley, Trinidad and Tobago",earthquake,5.4,2,0.256,2,reviewed,us,us
+2018-12-31T20:45:30.820Z,15.2862,-46.312,10,5,mb,,61,11.875,1,us,us2000izi5,2019-03-05T17:46:42.040Z,"Northern Mid-Atlantic Ridge",earthquake,10.5,1.9,0.04,203,reviewed,us,us
+2018-12-28T02:51:14.470Z,12.401,-88.3702,35,4.9,mb,,151,1.322,1.33,us,us2000iyhg,2019-03-05T17:46:36.040Z,"94km SSW of Chirilagua, El Salvador",earthquake,4,2,0.044,159,reviewed,us,us
+2018-12-28T02:20:09.560Z,12.4255,-88.3785,46,4.8,mb,,157,1.324,1.22,us,us2000iyh5,2019-03-05T17:46:36.040Z,"91km SSW of Chirilagua, El Salvador",earthquake,8.4,9.1,0.048,133,reviewed,us,us
+2018-12-27T09:24:20.600Z,10.2521,-67.9488,10,4.9,mb,,35,1.303,0.7,us,us2000iy16,2019-03-05T17:46:35.040Z,"0km SSE of San Diego, Venezuela",earthquake,7.2,1.9,0.039,212,reviewed,us,us
+2018-12-27T08:59:11.240Z,10.2636,-67.9035,8,5.4,mww,,58,1.318,0.65,us,us2000iy0q,2020-03-27T13:31:30.576Z,"5km NW of Guacara, Venezuela",earthquake,5.7,1.8,0.045,47,reviewed,us,us
+2018-12-25T03:46:15.080Z,19.3396,-67.7088,67,4.6,ml,24,238,0.9824,0.65,pr,pr2018359002,2019-03-05T17:46:33.040Z,"96km NW of San Antonio, Puerto Rico",earthquake,4.62,9.84,0.35,19,reviewed,pr,pr
+2018-12-24T19:08:21.200Z,10.3076,-62.6054,10,4.5,mb,,71,2.039,0.46,us,us2000ix7i,2019-03-05T17:46:32.040Z,"29km S of Irapa, Venezuela",earthquake,7.6,1.9,0.077,49,reviewed,us,us
+2018-12-22T14:12:17.530Z,18.6142,-69.046,126.07,4.6,mb,,82,0.638,1.11,us,us2000iwal,2019-02-23T20:20:43.040Z,"7km WNW of Guaymate, Dominican Republic",earthquake,6.2,5.8,0.068,64,reviewed,us,us
+2018-12-22T05:17:23.000Z,11.1149,-86.8573,10,4.8,mb,,146,1.147,0.78,us,us2000iw76,2019-02-23T20:22:22.040Z,"83km SSW of Masachapa, Nicaragua",earthquake,7,1.9,0.056,96,reviewed,us,us
+2018-12-20T17:01:49.130Z,14.1216,-90.2242,165.54,4.6,mb,,160,0.881,0.88,us,us2000j1sa,2019-02-23T20:23:05.040Z,"5km NE of San Juan Tecuaco, Guatemala",earthquake,6.9,8.6,0.08,46,reviewed,us,us
+2018-12-20T08:52:36.270Z,12.0998,-87.7217,36.51,4.6,mwr,,145,0.884,0.54,us,us2000ivaf,2019-02-23T20:21:39.040Z,"73km SW of Corinto, Nicaragua",earthquake,5.4,9.8,0.073,18,reviewed,us,us
+2018-12-17T19:33:46.980Z,11.2005,-86.8443,10,4.9,mb,,81,1.068,1.32,us,us2000iuhz,2019-02-23T20:21:10.040Z,"74km SSW of Masachapa, Nicaragua",earthquake,6.5,1.8,0.04,193,reviewed,us,us
+2018-12-14T12:41:21.340Z,10.6072,-69.4305,10,4.6,mb,,70,1.63,0.61,us,us2000ivch,2019-02-16T22:29:08.040Z,"25km SSE of Churuguara, Venezuela",earthquake,6.4,1.9,0.151,13,reviewed,us,us
+2018-12-14T07:41:44.970Z,12.9949,-81.1925,10,4.6,mb,,69,3.136,1.05,us,us2000ivbu,2019-02-16T22:29:08.040Z,"45km SSE of Mountain, Colombia",earthquake,4.7,1.9,0.274,4,reviewed,us,us
+2018-12-14T00:52:30.510Z,12.4329,-88.0813,35,4.5,mb,,78,1.04,0.87,us,us2000itfs,2019-02-16T22:29:07.040Z,"76km WSW of Jiquilillo, Nicaragua",earthquake,5.6,2,0.048,128,reviewed,us,us
+2018-12-07T18:25:50.680Z,19.4196,-68.0036,10,4.67,md,21,217,0.9813,0.93,pr,pr2018341005,2019-02-16T19:52:30.040Z,"103km NNE of Punta Cana, Dominican Republic",earthquake,3.72,31.61,0.38,19,reviewed,pr,pr
+2018-12-06T09:43:55.680Z,12.5956,-86.9794,159.77,5.1,mb,,131,0.121,0.95,us,us1000i3dq,2019-02-16T19:52:26.040Z,"5km ENE of Chichigalpa, Nicaragua",earthquake,8.1,6.4,0.027,440,reviewed,us,us
+2018-12-05T14:11:15.720Z,13.0309,-81.3065,10,4.6,mb,,36,3.038,0.74,us,us1000i2sg,2019-02-16T19:52:23.040Z,"37km S of Mountain, Colombia",earthquake,6.8,1.9,0.048,130,reviewed,us,us
+2018-12-05T09:33:01.410Z,10.5035,-68.6432,10,4.7,mb,,40,1.659,0.79,us,us1000i2ms,2019-02-16T19:52:22.040Z,"9km WNW of Farriar, Venezuela",earthquake,5.3,1.8,0.063,76,reviewed,us,us
+2018-12-04T13:58:37.990Z,10.7471,-86.5314,10,4.5,mb,,202,1.42,0.43,us,us1000i1x3,2019-02-16T19:52:19.040Z,"91km SW of San Juan del Sur, Nicaragua",earthquake,7.6,2,0.083,43,reviewed,us,us
+2018-12-03T09:07:29.630Z,12.4372,-88.6838,42.53,4.5,mb,,166,1.351,0.74,us,us1000i12y,2019-02-16T19:52:15.040Z,"94km S of Puerto El Triunfo, El Salvador",earthquake,8.8,11.8,0.05,118,reviewed,us,us
+2018-12-03T04:10:41.800Z,15.4806,-49.9597,10,4.7,mb,,121,9.589,0.97,us,us1000i0y1,2019-02-16T19:52:15.040Z,"North Atlantic Ocean",earthquake,9.8,1.9,0.053,106,reviewed,us,us
+2018-11-29T04:49:29.330Z,12.9872,-81.2784,10,4.6,mb,,36,3.053,0.88,us,us1000hxrz,2019-02-09T19:02:11.040Z,"43km SSE of Mountain, Colombia",earthquake,6.1,1.9,0.085,42,reviewed,us,us
+2018-11-28T15:00:06.820Z,9.3617,-70.6608,7.46,4.6,mb,,46,0.475,0.98,us,us1000hxfy,2019-02-09T19:02:11.040Z,"7km NW of Valera, Venezuela",earthquake,5.2,3.2,0.069,62,reviewed,us,us
+2018-11-27T19:34:45.550Z,15.5797,-49.8369,10,5.5,mww,,25,9.726,1.06,us,us1000hx62,2019-02-09T19:02:10.040Z,"North Atlantic Ocean",earthquake,8,1.7,0.049,40,reviewed,us,us
+2018-11-27T04:30:23.230Z,13.0906,-90.3299,20.58,4.6,mb,,85,1.222,0.87,us,us1000hwxg,2019-02-09T19:02:10.040Z,"77km SW of Acajutla, El Salvador",earthquake,3.7,4.8,0.036,226,reviewed,us,us
+2018-11-27T01:17:44.810Z,13.1525,-81.0207,10,4.5,mb,,28,3.339,0.85,us,us1000hww7,2019-02-09T19:02:10.040Z,"44km ESE of Mountain, Colombia",earthquake,5,1.9,0.046,140,reviewed,us,us
+2018-11-26T09:13:13.610Z,13.1173,-81.0402,10,4.6,mb,,37,3.311,1.38,us,us1000hwlf,2019-02-09T19:02:09.040Z,"44km SE of Mountain, Colombia",earthquake,5,1.8,0.045,145,reviewed,us,us
+2018-11-26T03:43:05.400Z,13.2022,-81.0372,10,4.7,mb,,46,0.361,0.89,us,us1000hwjz,2019-02-09T19:02:09.040Z,"40km ESE of Mountain, Colombia",earthquake,5.4,1.8,0.045,147,reviewed,us,us
+2018-11-25T22:09:53.650Z,13.054,-81.2056,10,5,mb,,127,0.355,0.69,us,us1000hyc5,2019-02-02T20:02:33.040Z,"38km SSE of Mountain, Colombia",earthquake,2.8,1.9,0.171,11,reviewed,us,us
+2018-11-25T20:56:36.490Z,13.1647,-81.046,10,5.7,mww,,30,3.318,1.07,us,us1000hwg8,2019-02-02T20:02:30.040Z,"41km ESE of Mountain, Colombia",earthquake,2.4,1.8,0.057,30,reviewed,us,us
+2018-11-25T16:19:46.610Z,13.0131,-81.2118,10,4.5,mb,,45,3.122,0.76,us,us1000hwds,2019-02-02T20:02:30.040Z,"42km SSE of Mountain, Colombia",earthquake,7.6,1.9,0.111,24,reviewed,us,us
+2018-11-25T15:45:59.010Z,13.0623,-81.2039,10,4.9,mb,,28,3.142,0.51,us,us1000hwdk,2019-02-02T20:02:30.040Z,"38km SSE of Mountain, Colombia",earthquake,6.8,1.9,0.032,311,reviewed,us,us
+2018-11-25T03:40:50.810Z,13.1817,-81.0931,10,6,mww,,25,0.326,0.94,us,us1000hwaj,2020-03-27T12:10:26.892Z,"36km SE of Mountain, Colombia",earthquake,6.4,1.8,0.045,47,reviewed,us,us
+2018-11-25T01:19:06.590Z,13.1429,-81.2054,10,4.6,mb,,31,3.163,0.74,us,us1000hw9h,2019-02-02T20:02:29.040Z,"30km SE of Mountain, Colombia",earthquake,5.7,1.9,0.044,155,reviewed,us,us
+2018-11-24T20:41:13.360Z,9.3095,-70.6681,18.92,5.2,mww,,22,0.424,0.78,us,us1000hw7f,2020-03-27T12:10:12.995Z,"7km W of Valera, Venezuela",earthquake,5.5,3.2,0.046,45,reviewed,us,us
+2018-11-22T20:49:42.830Z,11.26,-87.832,10,4.5,mb,,190,1.619,0.55,us,us1000hvjx,2019-02-02T20:02:28.040Z,"153km SSW of Corinto, Nicaragua",earthquake,2.9,1.9,0.093,34,reviewed,us,us
+2018-11-22T15:11:28.230Z,10.3417,-62.182,24.57,4.7,mb,,85,1.853,0.71,us,us1000hvfd,2019-02-02T20:02:28.040Z,"28km SSE of Guiria, Venezuela",earthquake,7.7,6.5,0.082,46,reviewed,us,us
+2018-11-21T08:46:05.120Z,10.5328,-86.1071,10,4.5,mb,,166,1.161,0.98,us,us1000huty,2019-02-02T20:02:27.040Z,"50km W of Sardinal, Costa Rica",earthquake,5.6,1.9,0.051,115,reviewed,us,us
+2018-11-21T08:24:36.140Z,10.4803,-86.1861,10,4.6,mb,,167,1.228,1.4,us,us1000hutu,2019-02-02T20:02:27.040Z,"59km W of Sardinal, Costa Rica",earthquake,4.1,1.9,0.046,143,reviewed,us,us
+2018-11-21T07:40:20.470Z,10.4894,-86.1721,10,4.9,mb,,140,1.216,1.44,us,us1000huth,2019-02-02T20:02:27.040Z,"57km W of Sardinal, Costa Rica",earthquake,3,1.9,0.028,413,reviewed,us,us
+2018-11-18T16:04:23.790Z,14.9332,-44.9834,10,5,mb,,97,12.332,0.63,us,us1000htk7,2019-01-30T18:36:22.040Z,"Northern Mid-Atlantic Ridge",earthquake,11.5,1.9,0.034,284,reviewed,us,us
+2018-11-18T09:15:08.500Z,15.0133,-44.8257,10,4.5,mb,,176,12.49,1.19,us,us1000hvw3,2019-01-30T18:36:29.040Z,"Northern Mid-Atlantic Ridge",earthquake,11.8,1.7,0.108,25,reviewed,us,us
+2018-11-17T14:12:54.980Z,10.1479,-83.9758,18.86,4.7,mb,,56,0.197,1.05,us,us1000ht6l,2019-01-30T18:36:25.040Z,"18km NNE of Angeles, Costa Rica",earthquake,3.1,4.9,0.058,90,reviewed,us,us
+2018-11-17T13:17:59.460Z,15.5399,-49.907,10,5.5,mww,,24,9.652,0.75,us,us1000ht5z,2019-01-30T18:36:21.040Z,"North Atlantic Ocean",earthquake,9,1.8,0.048,41,reviewed,us,us
+2018-11-15T07:50:04.830Z,10.5607,-86.0801,36.15,4.6,mb,,154,1.141,0.61,us,us1000hs2g,2019-01-30T18:36:24.040Z,"47km W of Sardinal, Costa Rica",earthquake,7.7,11.5,0.091,36,reviewed,us,us
+2018-11-15T03:58:31.340Z,10.464,-86.131,42.7,4.6,mb,,152,1.172,0.87,us,us1000hs0z,2019-01-30T18:36:24.040Z,"53km W of Sardinal, Costa Rica",earthquake,8,8.5,0.067,66,reviewed,us,us
+2018-11-15T03:52:21.010Z,10.571,-86.0972,35,4.5,mb,,165,1.16,0.41,us,us1000hvh0,2019-01-30T18:36:27.040Z,"49km W of Sardinal, Costa Rica",earthquake,7.2,2,0.101,29,reviewed,us,us
+2018-11-15T03:46:49.860Z,10.5066,-86.0992,44.23,4.6,mb,,117,1.148,0.92,us,us1000hs0v,2019-01-30T18:36:24.040Z,"49km W of Sardinal, Costa Rica",earthquake,2.6,6.9,0.054,101,reviewed,us,us
+2018-11-15T02:14:16.720Z,15.6295,-48.7849,10,4.6,mb,,113,10.727,0.65,us,us1000hvh4,2019-01-30T18:36:27.040Z,"North Atlantic Ocean",earthquake,12.9,2,0.182,9,reviewed,us,us
+2018-11-14T00:10:33.100Z,19.6256,-65.084,85,4.9,mb,29,224,1.653,0.76,pr,pr2018318000,2019-01-30T18:36:20.040Z,"143km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,5.89,14.52,0.35,22,reviewed,pr,pr
+2018-11-12T14:12:21.040Z,13.1132,-90.3224,35,4.5,mb,,185,1.205,0.94,us,us1000hqtw,2019-01-30T18:36:22.040Z,"78km SW of Acajutla, El Salvador",earthquake,7.1,2,0.057,91,reviewed,us,us
+2018-11-11T14:03:59.560Z,15.5653,-49.8719,10,6.3,mww,,50,9.69,0.65,us,us1000hqkp,2019-01-21T16:42:55.040Z,"North Atlantic Ocean",earthquake,9.2,1.9,0.048,42,reviewed,us,us
+2018-11-10T16:25:43.160Z,17.6213,-61.0678,10,4.5,mwr,,61,0.686,1.32,us,us1000hqas,2019-01-21T16:42:59.040Z,"79km E of Codrington, Barbuda",earthquake,5.1,1.9,0.053,34,reviewed,us,us
+2018-11-10T05:20:57.530Z,11.3805,-87.1317,10,4.6,mb,,150,1.153,0.74,us,us1000hq68,2019-01-21T16:42:55.040Z,"80km SW of Masachapa, Nicaragua",earthquake,7.7,1.9,0.059,87,reviewed,us,us
+2018-11-09T09:20:30.960Z,8.7153,-83.2612,10,5.4,mww,,26,0.307,1.08,us,us1000hpmp,2019-01-21T16:42:53.040Z,"13km NW of Golfito, Costa Rica",earthquake,2.5,1.7,0.062,25,reviewed,us,us
+2018-11-07T17:32:53.600Z,11.9728,-86.8015,66.79,4.6,mb,,123,0.568,0.87,us,us2000i848,2019-01-21T16:42:55.040Z,"32km W of Carlos Fonseca Amador, Nicaragua",earthquake,6.4,7.8,0.05,120,reviewed,us,us
+2018-11-07T10:21:33.540Z,13.0038,-90.5287,10,4.7,mb,,139,1.433,0.76,us,us2000i7xq,2019-01-21T16:42:54.040Z,"100km SW of Acajutla, El Salvador",earthquake,7,1.9,0.029,373,reviewed,us,us
+2018-11-05T19:39:35.160Z,13.0354,-90.4154,10,4.5,mb,,157,1.321,1.23,us,us2000i74a,2019-01-21T16:42:54.040Z,"88km SW of Acajutla, El Salvador",earthquake,7.4,1.9,0.075,52,reviewed,us,us
+2018-11-05T07:27:20.750Z,12.5075,-88.9073,28.75,4.5,mb,,134,1.214,0.78,us,us2000i6x6,2019-01-21T16:42:54.040Z,"94km SSW of Puerto El Triunfo, El Salvador",earthquake,7.1,6.7,0.051,112,reviewed,us,us
+2018-11-03T01:13:37.980Z,10.327,-62.1736,23.62,4.5,mb,,50,1.865,1.05,us,us2000i69x,2019-01-21T14:29:45.040Z,"30km SSE of Gueiria, Venezuela",earthquake,7.3,6.7,0.131,17,reviewed,us,us
+2018-11-01T18:12:46.560Z,23.5857,-45.2417,10,4.8,mb,,95,17.454,1.27,us,us2000i5it,2019-01-21T14:29:42.040Z,"Northern Mid-Atlantic Ridge",earthquake,11.9,1.9,0.058,93,reviewed,us,us
+2018-11-01T12:52:27.760Z,10.932,-86.729,10,4.5,mb,,182,1.297,0.75,us,us2000i59s,2019-01-21T14:29:42.040Z,"97km SSW of Masachapa, Nicaragua",earthquake,7.4,2,0.087,39,reviewed,us,us
+2018-11-01T11:13:09.580Z,8.2079,-83.0457,10,4.7,mb,,136,0.681,1.03,us,us2000i58n,2019-01-21T14:29:42.040Z,"21km WSW of Puerto Armuelles, Panama",earthquake,5.4,1.9,0.05,120,reviewed,us,us
+2018-10-31T17:46:59.550Z,12.0505,-87.364,61.57,4.7,mb,,168,0.711,1,us,us2000i4sw,2019-01-21T14:29:41.040Z,"52km SSW of Corinto, Nicaragua",earthquake,8.4,7.6,0.034,258,reviewed,us,us
+2018-10-29T21:31:16.790Z,8.6839,-77.2051,10,5,mb,,41,2.644,0.75,us,us1000hirk,2019-01-21T14:29:38.040Z,"21km NNE of Acandi, Colombia",earthquake,4.5,1.8,0.032,313,reviewed,us,us
+2018-10-29T15:52:45.990Z,22.2598,-45.1053,10,4.6,mb,,115,16.697,0.92,us,us1000hika,2019-01-21T14:29:38.040Z,"Northern Mid-Atlantic Ridge",earthquake,12.2,1.9,0.065,70,reviewed,us,us
+2018-10-29T14:02:11.160Z,10.6745,-86.419,10,4.5,mb,,161,1.474,1.02,us,us2000i61l,2019-01-21T14:29:38.040Z,"86km WNW of Sardinal, Costa Rica",earthquake,6.8,1.9,0.121,20,reviewed,us,us
+2018-10-28T22:23:53.420Z,13.0346,-90.3687,22,6.1,mww,,56,1.282,0.86,us,us1000hib5,2019-01-10T17:18:41.040Z,"85km SW of Acajutla, El Salvador",earthquake,6.7,1.8,0.036,76,reviewed,us,us
+2018-10-28T15:36:11.340Z,10.8595,-62.3144,85.26,4.6,mb,,118,1.421,0.64,us,us1000hi8l,2019-01-10T17:18:41.040Z,"31km N of Gueiria, Venezuela",earthquake,8.6,8.1,0.119,21,reviewed,us,us
+2018-10-26T12:49:48.260Z,23.0794,-70.4684,10,4.5,mb,,40,1.677,1.12,us,us1000hhj9,2019-01-10T17:18:38.040Z,"192km NNE of Cockburn Town, Turks and Caicos Islands",earthquake,7,1.8,0.039,192,reviewed,us,us
+2018-10-25T15:56:59.550Z,10.2813,-62.3909,10,4.9,mww,,47,1.976,0.93,us,us1000hh4e,2019-01-10T17:18:37.040Z,"33km SSW of Guiria, Venezuela",earthquake,7.4,1.9,0.093,11,reviewed,us,us
+2018-10-23T23:38:58.830Z,13.0821,-89.4387,48.47,4.5,mb,,159,0.634,0.9,us,us1000hgcf,2019-01-10T17:18:35.040Z,"46km SSW of La Libertad, El Salvador",earthquake,6.6,6.8,0.063,74,reviewed,us,us
+2018-10-23T20:54:35.890Z,7.2094,-77.007,43.4,4.8,mb,,83,3.41,0.89,us,us1000hg9i,2019-01-10T17:18:34.040Z,"28km SSE of Riosucio, Colombia",earthquake,5.6,7.3,0.043,164,reviewed,us,us
+2018-10-23T03:37:11.590Z,10.1339,-62.4101,24.3,4.6,mb,,74,2.12,0.85,us,us1000hh3s,2019-01-10T17:18:36.040Z,"24km NW of Pedernales, Venezuela",earthquake,8.6,8.1,0.088,38,reviewed,us,us
+2018-10-23T03:32:58.600Z,10.2624,-62.4297,23.89,4.9,mb,,49,2.008,0.79,us,us1000hfxj,2019-01-10T17:18:34.040Z,"37km SSW of Gueiria, Venezuela",earthquake,5.9,4.1,0.027,441,reviewed,us,us
+2018-10-22T14:12:35.700Z,10.583,-86.1589,10.66,4.7,mb,,181,0.737,0.9,us,us1000hflp,2019-01-10T17:18:33.040Z,"56km W of Sardinal, Costa Rica",earthquake,8,7.6,0.049,127,reviewed,us,us
+2018-10-22T01:28:42.140Z,8.684,-82.8253,17.92,4.7,mb,,53,0.174,0.71,us,us1000hfen,2019-01-10T17:18:33.040Z,"5km S of Plaza de Caisan, Panama",earthquake,3.8,3.4,0.046,141,reviewed,us,us
+2018-10-21T16:35:11.680Z,11.3071,-59.8631,22.27,5.1,mww,,40,1.849,0.89,us,us1000hfaa,2018-12-21T22:27:08.040Z,"78km E of Roxborough, Trinidad and Tobago",earthquake,4.9,4.1,0.066,22,reviewed,us,us
+2018-10-15T09:05:42.040Z,12.9354,-90.7679,10,4.9,mb,,165,1.671,1.14,us,us1000hc9i,2018-12-21T22:27:01.040Z,"109km S of Puerto San Jose, Guatemala",earthquake,7.5,1.9,0.028,387,reviewed,us,us
+2018-10-12T21:09:49.310Z,14.1973,-91.1973,64.33,5.7,mww,,74,0.581,0.79,us,us1000hbcu,2018-12-21T21:15:51.040Z,"11km E of Nueva Concepcion, Guatemala",earthquake,6.1,3.8,0.043,51,reviewed,us,us
+2018-10-11T12:27:10.670Z,14.8763,-45.0961,10,4.7,mb,,79,12.22,0.37,us,us1000halh,2018-12-21T21:15:49.040Z,"Northern Mid-Atlantic Ridge",earthquake,12.6,1.9,0.067,67,reviewed,us,us
+2018-10-10T08:01:34.230Z,11.0883,-86.6618,44.33,4.7,mb,,145,1.129,1.06,us,us1000h9v1,2018-12-21T21:15:48.040Z,"78km SSW of Masachapa, Nicaragua",earthquake,5.3,10,0.035,240,reviewed,us,us
+2018-10-09T01:48:07.140Z,9.0248,-84.0215,10,4.9,mb,,122,0.712,1.05,us,us1000h93j,2018-12-21T21:15:47.040Z,"46km SSE of Quepos, Costa Rica",earthquake,4.3,1.8,0.035,255,reviewed,us,us
+2018-10-07T20:00:18.890Z,20.0414,-73.0143,23,5.4,mww,,27,1.655,1.13,us,us1000h8hi,2018-12-14T20:32:44.040Z,"22km WNW of Ti Port-de-Paix, Haiti",earthquake,6,1.9,0.054,33,reviewed,us,us
+2018-10-07T00:26:43.620Z,12.6527,-88.2276,55.04,4.9,mb,,72,1.15,1.3,us,us1000h8au,2018-12-14T20:32:43.040Z,"63km S of Chirilagua, El Salvador",earthquake,6.5,5.6,0.065,74,reviewed,us,us
+2018-10-07T00:11:51.220Z,20.0343,-73.0128,24,5.9,mww,,19,1.648,0.7,us,us1000h8an,2020-03-27T12:07:20.819Z,"21km WNW of Ti Port-de-Paix, Haiti",earthquake,5,1.4,0.055,32,reviewed,us,us
+2018-10-05T12:48:01.710Z,14.9583,-44.7264,10,4.6,mb,,165,12.508,0.56,us,us1000hanb,2018-12-14T20:32:46.040Z,"Northern Mid-Atlantic Ridge",earthquake,15.8,1.9,0.071,59,reviewed,us,us
+2018-10-04T19:59:41.540Z,13.0591,-81.0833,13.89,4.7,mb,,43,3.255,0.6,us,us1000h78n,2018-12-14T20:32:41.040Z,"45km SE of Mountain, Colombia",earthquake,6.8,6,0.049,126,reviewed,us,us
+2018-09-30T17:13:21.030Z,13.0844,-90.3511,35,4.5,mb,,216,1.243,1.11,us,us1000h4pt,2018-12-01T16:43:41.040Z,"79km SW of Acajutla, El Salvador",earthquake,8.1,2,0.14,15,reviewed,us,us
+2018-09-28T12:32:43.570Z,15.1157,-60.3912,27.44,5.4,mb,,29,0.578,0.83,us,us1000h3s0,2018-12-01T16:43:00.040Z,"73km ENE of Petite Riviere Salee, Martinique",earthquake,5.1,3.4,0.021,774,reviewed,us,us
+2018-09-25T16:06:02.650Z,13.1491,-81.1419,10,4.5,mb,,56,3.225,0.94,us,us2000hjsk,2018-12-01T16:45:13.040Z,"34km SE of Mountain, Colombia",earthquake,6.6,1.9,0.069,61,reviewed,us,us
+2018-09-25T15:37:14.720Z,13.1504,-81.1488,6.54,4.7,mb,,46,0.306,0.72,us,us2000hjs8,2018-12-01T16:45:13.040Z,"33km SE of Mountain, Colombia",earthquake,4.7,4.9,0.038,213,reviewed,us,us
+2018-09-24T00:39:55.210Z,11.2015,-86.8409,10,4.8,mwr,,80,1.298,0.84,us,us2000hj64,2018-12-01T16:44:56.040Z,"73km SSW of Masachapa, Nicaragua",earthquake,6,1.7,0.083,14,reviewed,us,us
+2018-09-23T05:45:50.950Z,19.6495,-71.2739,19.82,5.2,mww,,36,0.56,0.9,us,us2000hiw5,2018-11-27T15:52:03.040Z,"4km S of Villa Elisa, Dominican Republic",earthquake,4.6,3.8,0.071,19,reviewed,us,us
+2018-09-23T04:37:46.130Z,13.1048,-81.1478,10,4.6,mb,,46,0.341,1.18,us,us2000hive,2018-11-27T15:52:03.040Z,"37km SE of Mountain, Colombia",earthquake,7.5,1.9,0.047,135,reviewed,us,us
+2018-09-21T02:07:28.320Z,13.0831,-81.086,10,4.6,mb,,54,3.259,1.08,us,us2000hhz5,2018-11-27T15:52:01.040Z,"43km SE of Mountain, Colombia",earthquake,4.1,1.9,0.057,93,reviewed,us,us
+2018-09-19T00:59:28.710Z,12.4686,-87.0439,134.62,4.5,mb,,63,0.226,0.8,us,us2000hgxx,2018-11-27T15:51:59.040Z,"10km SW of Posoltega, Nicaragua",earthquake,5.4,4.1,0.047,132,reviewed,us,us
+2018-09-14T01:36:00.570Z,8.6921,-83.2541,19.12,4.5,mwr,,109,0.286,0.55,us,us2000heeg,2018-11-21T18:19:11.040Z,"11km WNW of Golfito, Costa Rica",earthquake,5.6,4.3,0.065,23,reviewed,us,us
+2018-09-12T15:35:16.080Z,13.2268,-87.83,10,4.7,mb,,129,0.925,0.89,us,us2000hdfj,2018-11-21T18:19:09.040Z,"9km SSE of Conchagua, El Salvador",earthquake,5.8,1.9,0.041,184,reviewed,us,us
+2018-09-12T06:29:53.150Z,12.1932,-86.7841,103,5.4,mww,,27,0.316,1.31,us,us2000hdas,2018-11-21T18:19:09.040Z,"20km SW of La Paz Centro, Nicaragua",earthquake,6.9,1.9,0.042,54,reviewed,us,us
+2018-09-07T01:47:23.170Z,8.0543,-77.6026,10,5.4,mww,,24,2.47,0.66,us,us2000ha0n,2018-11-14T17:40:16.040Z,"14km SE of Yaviza, Panama",earthquake,6.1,1.7,0.103,9,reviewed,us,us
+2018-09-03T18:11:34.460Z,15.0661,-91.5483,179.11,4.6,mb,,96,0.254,1.23,us,us2000h78f,2018-11-14T17:40:12.040Z,"8km ESE of Huitan, Guatemala",earthquake,10.1,6.7,0.042,172,reviewed,us,us
+2018-09-03T14:35:03.710Z,18.0387,-79.6552,10,4.7,mb,,45,2.025,0.82,us,us2000h762,2018-11-14T17:40:12.040Z,"140km W of Negril, Jamaica",earthquake,6.5,1.9,0.043,166,reviewed,us,us
+2018-08-30T08:02:09.490Z,8.719,-83.089,14.37,4.7,mwr,,136,0.403,0.92,us,us2000h59l,2018-11-07T18:37:06.040Z,"12km NE of Golfito, Costa Rica",earthquake,7.2,5.6,0.071,19,reviewed,us,us
+2018-08-29T21:33:42.320Z,8.6677,-83.129,14,5.4,mww,,48,0.453,0.79,us,us2000h52e,2018-11-07T18:37:05.040Z,"5km NE of Golfito, Costa Rica",earthquake,5.2,1.8,0.047,44,reviewed,us,us
+2018-08-22T13:27:48.490Z,10.6593,-62.9288,108,5.8,mww,,32,1.925,0.9,us,us1000gfc8,2020-03-27T12:03:43.997Z,"14km NW of Yaguaraparo, Venezuela",earthquake,7.1,1.9,0.044,50,reviewed,us,us
+2018-08-22T10:28:59.290Z,8.6566,-83.2317,10,4.6,mb,,157,0.554,0.47,us,us1000gf9u,2018-11-01T17:50:54.040Z,"7km WNW of Golfito, Costa Rica",earthquake,7.1,1.9,0.086,40,reviewed,us,us
+2018-08-21T21:31:47.600Z,10.7731,-62.9019,146.82,7.3,mww,,15,1.822,1.1,us,us1000gez7,2020-03-27T12:03:05.070Z,"24km ENE of Rio Caribe, Venezuela",earthquake,7.5,3.4,0.033,88,reviewed,us,us
+2018-08-21T21:31:40.270Z,10.6575,-62.8522,108.91,5.3,mb,,35,1.878,1.18,us,us1000gfdx,2018-11-01T17:50:54.040Z,"10km NNW of Yaguaraparo, Venezuela",earthquake,7.8,7.4,0.111,27,reviewed,us,us
+2018-08-19T02:20:33.530Z,8.7228,-83.1455,21.04,4.6,mb,,134,0.457,0.66,us,us1000gcsd,2018-10-27T16:22:06.040Z,"9km NNE of Golfito, Costa Rica",earthquake,5.7,5.3,0.04,182,reviewed,us,us
+2018-08-18T19:39:07.170Z,8.802,-77.2506,10,5.6,mww,,36,2.58,0.8,us,us1000gcek,2020-03-27T12:01:37.426Z,"32km N of Acandi, Colombia",earthquake,5.7,1.7,0.048,42,reviewed,us,us
+2018-08-17T23:49:36.700Z,8.7932,-83.1211,17.72,4.6,mwr,,137,0.428,0.85,us,us1000gc16,2018-10-27T16:22:05.040Z,"16km W of San Vito, Costa Rica",earthquake,7.1,4.6,0.08,15,reviewed,us,us
+2018-08-17T23:22:24.950Z,8.7791,-83.1527,15,6.1,mww,,37,0.459,1.12,us,us1000gc0k,2020-03-27T12:01:23.055Z,"15km N of Golfito, Costa Rica",earthquake,6,1.7,0.052,36,reviewed,us,us
+2018-08-15T22:43:58.410Z,11.3927,-87.9289,27.81,5.2,mb,,54,1.554,0.83,us,us1000ga21,2018-10-27T16:22:03.040Z,"145km SW of Corinto, Nicaragua",earthquake,3.5,3.9,0.039,219,reviewed,us,us
+2018-08-15T14:19:36.160Z,13.304,-87.727,175.91,4.7,mb,,147,0.868,0.84,us,us1000g9n5,2018-10-27T16:22:03.040Z,"8km W of Amapala, Honduras",earthquake,9.4,6.2,0.138,16,reviewed,us,us
+2018-08-15T06:15:17.720Z,9.6872,-84.2453,10,4.5,mb,,149,0.242,1.26,us,us1000g9i4,2018-10-27T16:22:03.040Z,"6km S of Tejar, Costa Rica",earthquake,6.7,1.9,0.08,46,reviewed,us,us
+2018-08-09T19:21:51.990Z,13.5731,-91.2308,18,5.6,mww,,79,1.047,1.42,us,us1000g60s,2020-03-27T12:01:11.812Z,"58km SW of Puerto San Jose, Guatemala",earthquake,6.9,1.7,0.046,45,reviewed,us,us
+2018-08-09T00:25:58.620Z,12.3039,-89.3698,13.49,5,mww,,64,1.381,0.9,us,us1000g5kw,2018-10-17T18:11:54.040Z,"131km S of La Libertad, El Salvador",earthquake,5.9,3.4,0.058,29,reviewed,us,us
+2018-08-06T17:58:25.010Z,9.858,-78.6394,35,4.9,mb,,61,1.366,1.09,us,us1000g48q,2018-10-17T18:11:55.040Z,"46km N of Nargana, Panama",earthquake,6.7,2,0.027,438,reviewed,us,us
+2018-08-04T20:18:36.480Z,13.2281,-90.8859,35,4.5,mb,,159,1.509,0.78,us,us1000g3ln,2018-10-16T15:34:13.040Z,"77km S of Puerto San Jose, Guatemala",earthquake,4.2,1.9,0.068,63,reviewed,us,us
+2018-08-04T10:27:08.620Z,13.2356,-90.8136,35,5.1,mww,,144,1.54,0.78,us,us1000g3dz,2018-10-16T15:34:13.040Z,"76km S of Puerto San Jose, Guatemala",earthquake,7.3,2,0.057,30,reviewed,us,us
+2018-08-04T05:47:18.370Z,13.0555,-90.7331,35,4.6,mb,,188,1.59,0.97,us,us1000g5cv,2018-10-16T15:34:13.040Z,"96km S of Puerto San Jose, Guatemala",earthquake,5.1,2,0.109,25,reviewed,us,us
+2018-08-04T05:46:02.740Z,13.2229,-90.8181,35,4.9,mb,,165,1.549,1.04,us,us1000g3aa,2018-10-16T15:34:13.040Z,"77km S of Puerto San Jose, Guatemala",earthquake,8.2,2,0.07,64,reviewed,us,us
+2018-08-03T01:51:20.610Z,10.3299,-76.8826,10,4.5,mb,,94,3.133,0.68,us,us1000g59l,2018-10-16T15:34:12.040Z,"148km NW of San Bernardo del Viento, Colombia",earthquake,4.3,1.9,0.164,11,reviewed,us,us
+2018-07-31T14:25:29.510Z,10.6163,-86.0724,35,4.5,mb,,179,1.148,1.17,us,us2000gi7n,2018-10-16T15:34:13.040Z,"47km WNW of Sardinal, Costa Rica",earthquake,7.3,2,0.05,119,reviewed,us,us
+2018-07-27T20:42:02.690Z,12.6931,-88.1963,45.13,5.3,mww,,36,1.118,1.25,us,us2000gfiz,2018-10-09T16:43:29.040Z,"57km SSW of Intipuca, El Salvador",earthquake,5.3,2.6,0.048,41,reviewed,us,us
+2018-07-25T09:43:46.740Z,9.5268,-84.4083,20.51,4.6,mb,,138,0.451,0.62,us,us2000gddm,2018-10-09T16:43:30.040Z,"9km W of Parrita, Costa Rica",earthquake,6.9,5.7,0.049,123,reviewed,us,us
+2018-07-24T10:51:21.000Z,12.9221,-88.0048,92.11,4.8,mwr,,134,0.958,1.01,us,us2000gci3,2018-10-09T16:43:29.040Z,"30km S of Intipuca, El Salvador",earthquake,3.5,6.6,0.083,14,reviewed,us,us
+2018-07-19T01:27:19.230Z,13.6272,-91.255,41.52,4.5,mb,,172,0.989,0.67,us,us2000g8d0,2018-10-04T14:15:32.040Z,"55km SSW of La Gomera, Guatemala",earthquake,7.8,7.9,0.034,253,reviewed,us,us
+2018-07-15T23:26:37.600Z,7.2729,-78.6638,10,4.5,mb,,119,2.211,0.98,us,us2000g5tf,2018-10-02T16:40:43.040Z,"60km WSW of Jaque, Panama",earthquake,7.9,1.9,0.102,28,reviewed,us,us
+2018-07-12T07:56:23.020Z,13.1317,-89.5236,48.44,4.6,mb,,159,0.62,1.15,us,us2000g2ta,2018-10-02T16:40:35.040Z,"45km SSW of La Libertad, El Salvador",earthquake,5.9,6.9,0.082,44,reviewed,us,us
+2018-07-09T07:11:48.750Z,13.4702,-88.3914,196.12,4.7,mb,,150,0.844,0.86,us,us2000g060,2018-10-02T16:40:30.040Z,"5km S of Jucuapa, El Salvador",earthquake,7.4,6.2,0.037,219,reviewed,us,us
+2018-07-08T17:44:01.710Z,10.6522,-62.5624,100.64,4.5,mb,,87,1.719,0.67,us,us2000g42s,2018-09-27T14:03:47.040Z,"9km NNE of Irapa, Venezuela",earthquake,8,12.8,0.156,12,reviewed,us,us
+2018-06-27T14:45:20.930Z,14.127,-91.5616,68.84,4.8,mb,,170,0.415,0.78,us,us1000f3bt,2018-09-21T16:25:59.040Z,"27km SW of Pueblo Nuevo Tiquisate, Guatemala",earthquake,8.8,8.2,0.065,74,reviewed,us,us
+2018-06-27T00:13:59.330Z,12.5432,-88.9987,10,4.5,mb,,182,1.159,1.1,us,us1000f2vn,2018-09-21T16:25:57.040Z,"95km SSW of Puerto El Triunfo, El Salvador",earthquake,7.6,1.9,0.055,97,reviewed,us,us
+2018-06-25T05:19:58.830Z,13.6176,-90.7202,53.88,4.5,mb,,120,1.306,0.98,us,us1000f0tn,2018-09-21T16:25:57.040Z,"34km S of Iztapa, Guatemala",earthquake,6.7,8.3,0.034,249,reviewed,us,us
+2018-06-23T21:54:34.240Z,12.4941,-88.8351,40.44,4.5,mb,,166,1.246,0.78,us,us1000ezw9,2018-09-19T15:15:57.040Z,"92km SSW of Puerto El Triunfo, El Salvador",earthquake,7.8,10.3,0.077,49,reviewed,us,us
+2018-06-23T01:54:40.710Z,10.7414,-62.6732,90.62,5.2,mww,,32,1.705,0.96,us,us1000ez9p,2018-09-19T15:15:55.040Z,"21km NNW of Irapa, Venezuela",earthquake,6.8,4.3,0.048,41,reviewed,us,us
+2018-06-19T14:41:34.820Z,10.7967,-84.9391,170.58,4.5,mb,,127,0.502,0.69,us,us1000eviu,2018-09-19T15:15:49.040Z,"13km SE of Upala, Costa Rica",earthquake,8.3,6.9,0.079,47,reviewed,us,us
+2018-06-18T02:32:55.870Z,14.1325,-90.7154,99.17,5.7,mww,,51,0.899,1.45,us,us1000eu39,2020-03-27T11:59:25.728Z,"12km SW of Guanagazapa, Guatemala",earthquake,6.1,3.2,0.065,23,reviewed,us,us
+2018-06-13T23:54:44.540Z,7.4269,-80.5718,10,5.2,mww,,68,1.875,0.74,us,us1000er1r,2018-11-09T09:35:10.396Z,"13km WNW of Tonosi, Panama",earthquake,6.4,1.8,0.051,37,reviewed,us,us
+2018-06-08T22:36:54.370Z,11.2865,-85.4955,187.18,4.5,mb,,147,1.124,0.82,us,us1000elmq,2018-08-29T16:35:56.040Z,"10km N of Cardenas, Nicaragua",earthquake,8,7.8,0.055,98,reviewed,us,us
+2018-06-06T23:38:19.930Z,11.1932,-86.7679,10,4.7,mb,,138,1.519,1.24,us,us1000ek4g,2018-08-29T16:34:49.040Z,"71km SSW of Masachapa, Nicaragua",earthquake,5.5,1.9,0.065,72,reviewed,us,us
+2018-06-03T09:13:21.510Z,18.9965,-69.6349,83.97,4.7,mb,,29,1.281,0.92,us,us1000ehsg,2018-09-23T06:04:38.273Z,"13km ENE of Gonzalo, Dominican Republic",earthquake,6,7.2,0.04,186,reviewed,us,us
+2018-05-27T18:02:10.300Z,10.2375,-62.0663,47.5,4.7,mb,,102,1.926,0.82,us,us1000eczt,2018-08-21T21:23:54.040Z,"35km NE of Pedernales, Venezuela",earthquake,8.2,10,0.063,76,reviewed,us,us
+2018-05-25T12:53:49.220Z,7.262,-73.4769,102.64,4.5,mb,,69,1.415,1.06,us,us1000ebyi,2018-08-21T21:23:50.040Z,"14km S of Sabana de Torres, Colombia",earthquake,7.6,8.5,0.04,185,reviewed,us,us
+2018-05-23T12:42:44.160Z,7.3809,-82.7221,10,4.9,mwr,,87,1.194,0.78,us,us1000eais,2018-08-21T21:23:48.040Z,"73km SSE of Punta de Burica, Panama",earthquake,2,1.8,0.048,42,reviewed,us,us
+2018-05-22T21:47:23.180Z,16.9992,-46.5383,10,4.6,mb,,95,13.245,0.56,us,us1000ea97,2018-08-21T21:23:48.040Z,"Northern Mid-Atlantic Ridge",earthquake,7.6,1.8,0.074,55,reviewed,us,us
+2018-05-20T21:50:18.290Z,11.1108,-62.1993,114.5,4.5,mb,,88,1.147,0.72,us,us1000e93d,2018-08-15T19:47:00.040Z,"59km N of Gueiria, Venezuela",earthquake,8.1,7.4,0.105,27,reviewed,us,us
+2018-05-18T06:04:13.700Z,12.7298,-89.722,10,4.5,mb,,190,1.064,0.82,us,us1000e7u8,2018-08-15T19:46:56.040Z,"94km SSW of La Libertad, El Salvador",earthquake,7.8,2,0.101,29,reviewed,us,us
+2018-05-13T15:59:48.500Z,12.9299,-87.2405,192.38,4.7,mb,,143,0.297,0.85,us,us1000e45f,2018-08-08T15:21:39.040Z,"11km NW of Puerto Morazan, Nicaragua",earthquake,10.7,6.3,0.042,171,reviewed,us,us
+2018-05-11T21:34:26.750Z,13.545,-91.6757,10,4.5,mb,,201,0.974,0.84,us,us1000e3av,2018-08-08T15:20:56.040Z,"83km SSW of Nueva Concepcion, Guatemala",earthquake,4.8,1.9,0.072,57,reviewed,us,us
+2018-05-09T20:25:21.120Z,12.9033,-87.1809,194.72,4.6,mb,,141,0.242,0.38,us,us1000e1ki,2018-08-08T15:19:54.040Z,"5km N of Puerto Morazan, Nicaragua",earthquake,7.6,7.5,0.058,89,reviewed,us,us
+2018-05-08T23:07:32.830Z,13.3045,-87.9683,10,4.7,mb,,127,1.008,1.2,us,us1000e133,2018-08-08T15:19:41.040Z,"11km W of Conchagua, El Salvador",earthquake,5,1.9,0.039,202,reviewed,us,us
+2018-05-07T06:57:03.270Z,13.031,-90.2228,35,4.6,mb,,152,1.164,1.35,us,us1000dzs2,2018-08-08T15:19:12.040Z,"75km SW of Acajutla, El Salvador",earthquake,6.4,2,0.028,389,reviewed,us,us
+2018-05-06T19:02:22.360Z,13.1036,-88.0615,10,5.4,mww,,125,1.066,1.22,us,us1000dzgr,2020-03-27T11:55:54.211Z,"10km S of Intipuca, El Salvador",earthquake,6.5,1.9,0.05,38,reviewed,us,us
+2018-05-06T18:58:16.660Z,13.3319,-87.9657,10,4.5,mb,,141,0.986,1.1,us,us1000dzgj,2018-07-27T20:20:28.040Z,"11km S of San Alejo, El Salvador",earthquake,7.3,1.9,0.05,119,reviewed,us,us
+2018-05-06T17:43:41.120Z,13.3173,-88.0681,10,4.5,mb,,146,1.066,0.93,us,us1000dzfb,2018-07-27T20:20:43.040Z,"13km NE of Chirilagua, El Salvador",earthquake,5.2,1.9,0.065,68,reviewed,us,us
+2018-05-06T14:52:54.180Z,13.2253,-88.0851,10,4.8,mb,,130,1.137,0.97,us,us1000dzcv,2018-07-27T20:20:28.040Z,"4km NW of Intipuca, El Salvador",earthquake,5.8,1.9,0.028,399,reviewed,us,us
+2018-05-06T12:44:28.080Z,13.2731,-87.9546,10,5.2,mww,,81,1.022,0.79,us,us1000dzau,2018-07-27T20:20:28.040Z,"10km WSW of Conchagua, El Salvador",earthquake,4.8,1.8,0.065,23,reviewed,us,us
+2018-05-06T12:37:58.950Z,13.2236,-88.0338,10,5.2,mww,,60,1.093,0.92,us,us1000dzap,2018-07-27T20:20:28.040Z,"3km NE of Intipuca, El Salvador",earthquake,5.7,1.9,0.058,29,reviewed,us,us
+2018-05-06T05:19:21.350Z,11.8001,-86.2109,149.51,4.8,mb,,129,0.843,0.63,us,us1000dz6f,2018-07-27T20:20:28.040Z,"5km SSW of Jinotepe, Nicaragua",earthquake,3.7,6.1,0.028,387,reviewed,us,us
+2018-05-06T04:58:22.070Z,13.3024,-87.8448,10,4.9,mwr,,125,0.933,0.86,us,us1000dz60,2018-07-27T20:20:29.040Z,"2km ESE of Conchagua, El Salvador",earthquake,3.7,1.9,0.05,39,reviewed,us,us
+2018-05-05T12:05:18.690Z,10.66,-86.0535,32.33,4.9,mww,,136,0.453,1.39,us,us1000dys9,2018-07-27T20:20:29.040Z,"47km WNW of Sardinal, Costa Rica",earthquake,5.4,4.9,0.062,25,reviewed,us,us
+2018-05-05T05:52:26.100Z,10.5661,-86.0592,35,4.5,mb,,166,0.479,0.7,us,us1000dylw,2018-07-27T20:20:30.040Z,"45km W of Sardinal, Costa Rica",earthquake,7.5,2,0.075,52,reviewed,us,us
+2018-05-04T11:09:31.430Z,13.9352,-91.8766,35,4.7,mb,,130,0.611,1.11,us,us1000dxty,2018-07-27T20:20:30.040Z,"40km S of Champerico, Guatemala",earthquake,7.1,2,0.027,403,reviewed,us,us
+2018-04-30T09:32:13.760Z,21.2474,-45.5649,10,4.8,mb,,100,24.868,0.96,us,us1000dumr,2018-07-27T20:20:34.040Z,"Northern Mid-Atlantic Ridge",earthquake,12.2,1.9,0.052,114,reviewed,us,us
+2018-04-28T15:53:41.540Z,10.6815,-87.0049,10,4.7,mww,,125,1.385,1.21,us,us1000du0l,2018-07-25T21:37:42.040Z,"133km SSW of Masachapa, Nicaragua",earthquake,7.6,1.9,0.093,11,reviewed,us,us
+2018-04-28T03:30:03.140Z,14.3888,-60.1416,56.11,4.5,mb,,101,0.697,0.49,us,us1000dtsw,2018-07-25T21:37:34.040Z,"77km ESE of Le Vauclin, Martinique",earthquake,5.7,7.3,0.094,33,reviewed,us,us
+2018-04-28T01:48:22.050Z,12.0745,-86.8876,75.35,4.6,mb,,102,0.461,0.84,us,us1000dtrv,2018-07-25T21:37:32.040Z,"37km SW of La Paz Centro, Nicaragua",earthquake,5.7,5.3,0.05,117,reviewed,us,us
+2018-04-27T08:44:49.740Z,10.2896,-67.9854,10,4.7,mwr,,56,2.107,0.84,us,us1000dt7f,2020-03-27T11:54:30.351Z,"4km NE of Naguanagua, Venezuela",earthquake,6.7,1.9,,,reviewed,us,car
+2018-04-25T22:18:24.560Z,14.2824,-89.9947,192.89,4.9,mb,,111,0.625,0.88,us,us1000dsd7,2018-07-25T21:36:49.040Z,"5km ENE of Quesada, Guatemala",earthquake,6.6,4.9,0.05,125,reviewed,us,us
+2018-04-25T04:13:08.810Z,10.7613,-60.2235,14.91,4.7,mb,,111,1.955,0.47,us,us1000drsz,2018-07-25T21:36:34.040Z,"66km SE of Roxborough, Trinidad and Tobago",earthquake,7.4,6,0.075,53,reviewed,us,us
+2018-04-24T02:29:52.640Z,12.4928,-87.7466,47.28,5.6,mww,,56,0.709,0.92,us,us1000dr32,2018-07-25T21:36:15.040Z,"42km SW of Jiquilillo, Nicaragua",earthquake,6,4,0.048,42,reviewed,us,us
+2018-04-22T17:25:54.820Z,12.1171,-88.2121,10,4.6,mb,,159,1.272,1.37,us,us1000dqc6,2018-07-17T02:05:35.040Z,"108km SW of Jiquilillo, Nicaragua",earthquake,6.5,2,0.06,83,reviewed,us,us
+2018-04-17T20:26:51.940Z,17.0679,-61.7422,20.95,4.7,mb,,54,0.638,0.84,us,us2000e1rz,2018-07-17T02:05:29.040Z,"4km SE of Parham, Antigua and Barbuda",earthquake,4.2,4.8,0.056,97,reviewed,us,us
+2018-04-12T04:32:53.860Z,7.7652,-75.0172,35,4.5,mb,,114,2.982,0.85,us,us2000e25t,2018-07-07T02:25:19.040Z,"27km W of San Carlos, Colombia",earthquake,3.2,2,0.102,28,reviewed,us,us
+2018-04-11T01:00:25.750Z,19.1754,-64.6505,43.16,4.5,mb,,42,1.532,0.96,us,us2000dxub,2018-07-07T02:25:17.040Z,"84km N of Road Town, British Virgin Islands",earthquake,5.7,7.9,0.065,69,reviewed,us,us
+2018-04-09T17:46:37.910Z,23.2276,-44.8894,10,4.6,mb,,201,21.38,0.76,us,us2000e12f,2018-07-07T02:25:15.040Z,"Northern Mid-Atlantic Ridge",earthquake,8.9,1.9,0.069,63,reviewed,us,us
+2018-04-09T17:20:21.890Z,23.4179,-44.8937,10,4.6,mb,,128,44.276,0.55,us,us2000e12d,2018-07-07T02:25:15.040Z,"Northern Mid-Atlantic Ridge",earthquake,7.2,1.9,0.059,87,reviewed,us,us
+2018-04-09T04:32:22.660Z,17.5155,-83.5044,10,4.9,mb,,33,4.998,0.95,us,us2000dwr6,2018-07-07T02:25:14.040Z,"46km ENE of Great Swan Island, Honduras",earthquake,6.9,1.9,0.025,488,reviewed,us,us
+2018-04-09T03:37:36.060Z,8.5695,-84.1096,10,4.8,mwr,,78,0.797,0.86,us,us2000dwqs,2018-07-07T02:25:14.040Z,"77km SW of Ciudad Cortes, Costa Rica",earthquake,4.3,1.7,0.046,45,reviewed,us,us
+2018-04-08T14:48:19.970Z,12.1926,-77.3864,14.12,4.5,mb,,68,3.853,0.96,us,us2000dwg5,2018-06-30T01:11:35.040Z,"284km NW of Cartagena, Colombia",earthquake,8.3,5.4,0.066,68,reviewed,us,us
+2018-04-08T11:31:39.710Z,18.4845,-47.6797,10,4.6,mb,,200,13.263,1.19,us,us2000dzs3,2018-06-30T01:11:34.040Z,"Northern Mid-Atlantic Ridge",earthquake,14.5,2,0.105,27,reviewed,us,us
+2018-04-08T05:34:28.230Z,13.8035,-91.6968,35,4.5,mb,,143,0.716,0.65,us,us2000dwb7,2018-06-30T01:11:34.040Z,"59km SSE of Champerico, Guatemala",earthquake,8.1,2,0.049,120,reviewed,us,us
+2018-04-08T05:08:20.900Z,13.8832,-91.5365,21.43,5.2,mww,,34,0.655,1.19,us,us2000dwar,2018-06-30T01:11:34.040Z,"43km SW of Nueva Concepcion, Guatemala",earthquake,5.6,2.9,0.058,29,reviewed,us,us
+2018-04-08T01:12:06.140Z,18.4973,-47.6462,10,5,mb,,58,12.993,0.73,us,us2000dw8x,2018-06-30T01:11:33.040Z,"Northern Mid-Atlantic Ridge",earthquake,9.3,1.8,0.028,418,reviewed,us,us
+2018-04-07T13:26:17.740Z,11.2814,-87.0226,10,4.9,mb,,178,1.252,1.22,us,us2000dw1j,2018-06-30T01:11:33.040Z,"78km SW of Masachapa, Nicaragua",earthquake,6.2,1.9,0.034,273,reviewed,us,us
+2018-04-06T21:21:13.680Z,18.702,-64.6711,40.05,4.7,mwr,,20,1.249,0.69,us,us2000dvsj,2018-06-30T01:11:31.040Z,"32km N of Road Town, British Virgin Islands",earthquake,5.3,4.8,0.04,61,reviewed,us,us
+2018-04-05T11:26:59.550Z,16.7577,-61.0358,37.56,4.9,mb,,91,0.439,0.68,us,us2000duxi,2018-06-30T01:11:29.040Z,"50km N of Grande Anse, Guadeloupe",earthquake,6.5,6.5,0.027,425,reviewed,us,us
+2018-04-03T16:00:50.900Z,13.0609,-88.7998,64.85,4.8,mb,,63,0.75,1.05,us,us1000ddpb,2018-06-30T01:11:26.040Z,"36km SW of Puerto El Triunfo, El Salvador",earthquake,6.3,5.7,0.029,369,reviewed,us,us
+2018-04-03T09:41:27.350Z,8.3459,-71.7188,10,4.9,mb,,19,1.198,0.71,us,us1000ddjg,2018-06-30T01:11:26.040Z,"3km ENE of Tovar, Venezuela",earthquake,6.6,1.8,0.024,525,reviewed,us,us
+2018-04-02T23:23:17.670Z,13.1086,-88.6821,50,5.9,mww,,19,0.785,1.32,us,us1000dcru,2020-03-27T11:53:32.887Z,"24km SW of Puerto El Triunfo, El Salvador",earthquake,5.5,1.8,0.04,61,reviewed,us,us
+2018-04-02T20:29:13.320Z,11.8776,-87.6566,37.71,4.5,mb,,165,1.006,0.74,us,us1000dcmj,2018-06-30T01:11:25.040Z,"85km SW of Corinto, Nicaragua",earthquake,7.8,4.3,0.073,55,reviewed,us,us
+2018-03-29T01:21:48.590Z,14.117,-91.2375,70.33,4.7,mwr,,121,0.6,0.74,us,us1000daje,2018-06-22T21:32:13.040Z,"11km SE of Nueva Concepcion, Guatemala",earthquake,6.4,6.8,0.086,13,reviewed,us,us
+2018-03-28T16:05:14.270Z,11.5746,-87.327,10,4.6,mb,,150,1.106,0.97,us,us1000da76,2018-06-22T21:32:13.040Z,"91km WSW of Masachapa, Nicaragua",earthquake,6.6,1.9,0.052,111,reviewed,us,us
+2018-03-23T17:16:25.420Z,14.383,-91.2201,104.24,4.6,mb,,129,0.481,0.95,us,us1000d865,2018-06-19T01:35:49.040Z,"5km SSE of Santa Barbara, Guatemala",earthquake,7.9,5.6,0.044,152,reviewed,us,us
+2018-03-23T07:40:29.010Z,12.6529,-44.5694,10,5.6,mww,,32,10.942,0.68,us,us1000d7uw,2018-06-19T01:35:49.040Z,"Northern Mid-Atlantic Ridge",earthquake,7.1,1.8,0.066,22,reviewed,us,us
+2018-03-23T07:37:15.970Z,9.6539,-84.109,36.65,4.8,mwr,,104,0.134,1.05,us,us1000d7us,2018-06-19T01:35:49.040Z,"9km W of San Marcos, Costa Rica",earthquake,4.7,5.7,0.053,34,reviewed,us,us
+2018-03-17T10:16:09.190Z,12.0428,-72.133,29.59,4.5,mb,,71,2.124,0.84,us,us1000d5ly,2018-06-11T21:53:49.040Z,"39km NNE of Uribia, Colombia",earthquake,7.3,7.2,0.113,23,reviewed,us,us
+2018-03-16T02:49:51.230Z,10.8799,-62.1443,69.04,4.6,mwr,,45,1.334,0.78,us,us1000d53w,2018-06-11T21:53:47.040Z,"37km NNE of Gueiria, Venezuela",earthquake,6.8,8,,,reviewed,us,car
+2018-03-12T06:44:11.860Z,11.8533,-86.2039,164.72,4.6,mb,,138,0.792,1.03,us,us1000d3am,2018-06-11T21:53:41.040Z,"0km NW of Jinotepe, Nicaragua",earthquake,6,6,0.038,202,reviewed,us,us
+2018-03-09T17:23:32.480Z,11.7379,-87.0527,51.98,4.6,mb,,137,0.832,0.73,us,us1000d2dx,2018-06-08T05:12:17.040Z,"58km W of Masachapa, Nicaragua",earthquake,5.4,8.7,0.048,130,reviewed,us,us
+2018-03-06T17:54:30.100Z,19.2934,-65.264,42.1,4.5,mb,,89,1.249,0.86,us,us2000dd70,2018-06-08T05:12:12.040Z,"109km N of Culebra, Puerto Rico",earthquake,7,8.9,0.081,45,reviewed,us,us
+2018-03-05T11:35:52.600Z,16.8213,-85.8755,10,4.6,mb,,78,2.818,1.09,us,us2000dcdu,2018-06-08T05:12:09.040Z,"41km N of Savannah Bight, Honduras",earthquake,7.1,1.9,0.057,91,reviewed,us,us
+2018-03-04T05:01:26.170Z,13.2777,-89.2946,69.61,4.5,mb,,60,0.411,0.86,us,us2000dbyd,2018-05-27T01:06:12.040Z,"23km S of La Libertad, El Salvador",earthquake,6.6,6.6,0.046,140,reviewed,us,us
+2018-03-03T01:02:54.220Z,8.6362,-83.322,6.62,4.7,mwr,,123,0.223,0.67,us,us2000dbj3,2018-05-27T01:06:10.040Z,"17km W of Golfito, Costa Rica",earthquake,5.2,4.3,0.052,35,reviewed,us,us
+2018-02-28T22:01:05.360Z,17.303,-46.743,10,4.6,mb,,84,13.426,0.76,us,us1000d26e,2018-05-27T01:06:06.040Z,"Northern Mid-Atlantic Ridge",earthquake,10.2,1.8,0.092,35,reviewed,us,us
+2018-02-26T13:15:01.080Z,8.5808,-83.1831,14.73,4.9,mb,,127,0.216,0.76,us,us2000d84z,2018-05-27T01:06:02.040Z,"6km SSW of Golfito, Costa Rica",earthquake,7,4.9,0.056,99,reviewed,us,us
+2018-02-24T01:50:53.720Z,12.742,-88.1532,68.39,4.9,mwr,,108,1.077,0.77,us,us2000d7a6,2018-05-22T02:00:25.040Z,"51km SSW of Intipuca, El Salvador",earthquake,5.5,5.4,0.059,28,reviewed,us,us
+2018-02-22T11:19:04.300Z,12.1211,-88.2095,10,4.7,mb,,166,1.268,0.74,us,us2000d6bt,2018-05-22T02:00:22.040Z,"107km SW of Jiquilillo, Nicaragua",earthquake,7.2,2,0.041,177,reviewed,us,us
+2018-02-22T05:48:58.590Z,23.7689,-44.9481,10,5.3,mww,,87,17.43,0.64,us,us2000d69c,2018-05-22T02:00:22.040Z,"Northern Mid-Atlantic Ridge",earthquake,11.1,1.9,0.058,29,reviewed,us,us
+2018-02-19T20:54:29.660Z,12.3595,-89.5239,10,4.5,mb,,169,1.349,1.21,us,us2000d4xl,2018-05-22T02:00:18.040Z,"126km S of La Libertad, El Salvador",earthquake,8.3,2,0.075,52,reviewed,us,us
+2018-02-19T00:56:42.610Z,22.4419,-45.1159,10,4.9,mb,,55,16.232,0.76,us,us2000d9mx,2018-05-22T02:00:16.040Z,"Northern Mid-Atlantic Ridge",earthquake,10.5,1.9,0.053,110,reviewed,us,us
+2018-02-18T15:14:30.460Z,7.6069,-78.7771,10,4.5,mb,,102,1.871,0.76,us,us2000d47k,2018-05-15T06:29:15.040Z,"67km W of Jaque, Panama",earthquake,7.3,1.9,0.093,34,reviewed,us,us
+2018-02-18T14:55:33.830Z,7.5807,-78.828,10,5.1,mb,,54,1.865,0.84,us,us2000d47c,2018-05-15T06:29:15.040Z,"72km W of Jaque, Panama",earthquake,5.1,1.8,0.031,348,reviewed,us,us
+2018-02-17T00:25:16.300Z,18.8249,-73.6083,12.44,4.6,mb,,37,1.276,0.83,us,us2000d3lu,2018-05-15T06:29:11.040Z,"34km NNW of Petit Trou de Nippes, Haiti",earthquake,5.5,4.4,0.036,228,reviewed,us,us
+2018-02-16T11:43:33.320Z,13.0615,-90.1917,37.32,4.8,mb,,100,1.122,1.02,us,us2000d364,2018-05-15T06:29:10.040Z,"70km SSW of Acajutla, El Salvador",earthquake,4,5,0.024,535,reviewed,us,us
+2018-02-16T11:01:27.460Z,12.7414,-88.0889,59.69,5,mwr,,59,1.014,1.15,us,us2000d35e,2018-05-15T06:29:10.040Z,"50km S of Intipuca, El Salvador",earthquake,5.8,4.6,0.083,14,reviewed,us,us
+2018-02-16T01:03:28.500Z,12.4912,-87.6252,80.78,4.7,mb,,152,0.597,0.76,us,us2000d303,2018-05-15T06:29:09.040Z,"33km SSW of Jiquilillo, Nicaragua",earthquake,6.1,6,0.028,398,reviewed,us,us
+2018-02-12T05:29:04.810Z,12.1923,-88.9012,10,4.5,mb,,115,1.52,0.9,us,us2000d0t8,2018-05-15T06:29:02.040Z,"126km SSW of Puerto El Triunfo, El Salvador",earthquake,3.3,1.9,0.047,134,reviewed,us,us
+2018-02-12T02:01:34.120Z,11.5578,-60.4766,45.85,4.5,mb,,151,1.286,0.83,us,us2000d0qt,2018-05-15T06:29:02.040Z,"35km NNE of Roxborough, Trinidad and Tobago",earthquake,7.4,10.4,0.076,51,reviewed,us,us
+2018-02-11T10:29:23.410Z,8.1718,-83.0015,11.99,5.3,mww,,141,0.394,0.95,us,us2000d0ik,2018-05-03T22:15:09.040Z,"19km SW of Puerto Armuelles, Panama",earthquake,4.6,4.1,0.056,31,reviewed,us,us
+2018-02-09T17:43:37.190Z,18.6315,-61.9765,43.36,5.2,mww,,26,1.192,0.75,us,us2000czp4,2018-05-03T22:15:06.040Z,"111km N of Codrington, Barbuda",earthquake,6,3.8,0.086,13,reviewed,us,us
+2018-02-09T16:50:05.880Z,19.1077,-64.8714,24.29,4.5,mwr,,142,1.334,1.18,us,us2000czm4,2018-05-03T22:15:06.040Z,"81km NNW of Road Town, British Virgin Islands",earthquake,4.6,4.7,0.048,42,reviewed,us,us
+2018-02-02T12:40:16.380Z,11.2067,-87.7396,10,4.6,mb,,155,1.627,0.88,us,us1000ceay,2018-04-25T01:39:43.040Z,"148km WSW of Masachapa, Nicaragua",earthquake,2.7,1.9,0.045,147,reviewed,us,us
+2018-01-31T16:41:52.630Z,7.4378,-79.6878,10,5.2,mww,,65,1.724,0.79,us,us2000crtp,2018-04-25T01:39:39.040Z,"39km ESE of Pedasi, Panama",earthquake,5.9,1.8,0.089,12,reviewed,us,us
+2018-01-31T16:37:05.510Z,7.2401,-79.6427,7,5.6,mww,,58,1.923,0.82,us,us2000crtj,2018-04-25T01:39:39.040Z,"53km SE of Pedasi, Panama",earthquake,7,1.8,0.058,29,reviewed,us,us
+2018-01-31T00:09:49.290Z,12.2837,-86.6581,134.9,4.5,mb,,103,0.218,0.88,us,us2000crjv,2018-04-25T01:39:38.040Z,"6km SSE of La Paz Centro, Nicaragua",earthquake,7.4,8.2,0.068,64,reviewed,us,us
+2018-01-30T09:45:17.510Z,8.5404,-83.0345,10.02,4.6,mb,,136,0.163,0.93,us,us2000cr88,2018-04-25T01:39:37.040Z,"14km SW of Corredor, Costa Rica",earthquake,5,5.7,0.065,70,reviewed,us,us
+2018-01-29T05:49:47.260Z,7.2678,-79.5715,10,5,mwr,,105,1.904,0.92,us,us2000cquu,2018-04-25T01:39:34.040Z,"58km ESE of Pedasi, Panama",earthquake,6.2,1.9,0.11,8,reviewed,us,us
+2018-01-27T21:45:12.340Z,7.2827,-79.6764,9.8,5.7,mww,,46,1.878,0.72,us,us2000cqgn,2018-04-20T07:05:31.040Z,"48km SE of Pedasi, Panama",earthquake,6.2,3.1,0.061,26,reviewed,us,us
+2018-01-27T14:40:36.020Z,15.9952,-84.5422,10,4.7,mb,,60,2.877,1.08,us,us2000cqd2,2018-04-20T07:05:30.040Z,"27km NNW of Brus Laguna, Honduras",earthquake,7.1,1.8,0.045,147,reviewed,us,us
+2018-01-26T22:05:22.130Z,10.1928,-62.1532,10,4.6,mb,,77,1.988,1.1,us,us2000cq4g,2018-04-20T07:05:27.040Z,"26km NNE of Pedernales, Venezuela",earthquake,2.9,1.9,0.103,28,reviewed,us,us
+2018-01-26T20:30:32.630Z,10.2442,-62.2616,41.63,4.8,mb,,34,1.968,0.75,us,us2000cq1t,2018-04-20T07:05:27.040Z,"30km N of Pedernales, Venezuela",earthquake,6.3,4,0.042,172,reviewed,us,us
+2018-01-26T14:47:25.310Z,10.0631,-62.0735,27.85,4.9,mb,,102,2.097,0.97,us,us2000cptd,2018-04-20T07:05:26.040Z,"21km ENE of Pedernales, Venezuela",earthquake,5.5,8.1,0.169,11,reviewed,us,us
+2018-01-26T14:40:21.960Z,10.2673,-62.2267,10,4.6,mb,,141,1.936,1.32,us,us2000cpt9,2018-04-20T07:05:26.040Z,"32km N of Pedernales, Venezuela",earthquake,8,1.9,0.117,22,reviewed,us,us
+2018-01-26T07:28:34.920Z,16.164,-47.166,10,5.1,mb,,84,12.231,0.85,us,us2000cpnn,2018-04-20T07:05:25.040Z,"Northern Mid-Atlantic Ridge",earthquake,9.7,1.9,0.058,96,reviewed,us,us
+2018-01-24T13:53:48.050Z,9.4972,-69.8331,10,4.6,mwr,,84,0.998,1.42,us,us2000cnqk,2018-04-20T07:05:18.040Z,"14km ENE of Paraiso de Chabasquen, Venezuela",earthquake,2.7,1.9,,,reviewed,us,car
+2018-01-23T05:31:34.170Z,8.229,-74.9986,54.81,4.5,mb,,93,3.428,1.23,us,us2000cmwp,2018-04-20T07:05:07.040Z,"4km WSW of Pueblo Nuevo, Colombia",earthquake,8,8.5,0.065,69,reviewed,us,us
+2018-01-22T13:58:02.290Z,16.4186,-83.2736,10,4.5,mb,,49,3.962,0.72,us,us2000cmgb,2018-04-20T07:05:07.040Z,"127km ENE of Barra Patuca, Honduras",earthquake,7.5,1.9,0.071,58,reviewed,us,us
+2018-01-21T19:06:02.310Z,11.2926,-87.0603,23.42,5,mb,,97,1.251,1.18,us,us2000cm69,2018-04-10T01:11:50.040Z,"80km SW of Masachapa, Nicaragua",earthquake,6.3,4.8,0.041,186,reviewed,us,us
+2018-01-17T01:49:23.730Z,10.9788,-62.3613,88.39,4.6,mb,,87,1.339,1.15,us,us2000ck7q,2018-04-10T01:11:43.040Z,"44km N of Gueiria, Venezuela",earthquake,8,7.8,0.043,162,reviewed,us,us
+2018-01-16T15:03:53.300Z,10.9283,-86.3469,22,5.8,mww,,33,0.768,1.01,us,us2000cjyj,2018-04-10T01:11:42.040Z,"63km SW of San Juan del Sur, Nicaragua",earthquake,4.1,1.8,0.048,41,reviewed,us,us
+2018-01-16T08:24:04.960Z,12.3356,-89.5786,10,4.9,mb,,137,1.385,1.38,us,us2000cjvr,2018-04-10T01:11:42.040Z,"130km SSW of La Libertad, El Salvador",earthquake,5,1.7,0.058,95,reviewed,us,us
+2018-01-15T19:09:23.920Z,12.1594,-87.9865,10,4.5,mb,,178,1.059,1.14,us,us2000cjqf,2018-04-10T01:11:41.040Z,"87km SW of Jiquilillo, Nicaragua",earthquake,5.5,2,0.101,29,reviewed,us,us
+2018-01-14T15:21:00.080Z,12.0156,-88.0114,10,4.8,mb,,183,1.157,1.1,us,us2000cjie,2018-04-03T01:40:30.040Z,"101km SW of Jiquilillo, Nicaragua",earthquake,5,1.9,0.041,184,reviewed,us,us
+2018-01-12T22:11:19.560Z,13.7872,-89.4963,118.8,4.8,mb,,169,0.276,0.82,us,us2000cpsh,2018-04-03T01:40:28.040Z,"4km N of Armenia, El Salvador",earthquake,9.7,6.3,0.277,4,reviewed,us,us
+2018-01-12T04:23:25.000Z,12.5833,-88.8069,35,4.6,mb,,171,1.172,1.09,us,us2000ciqn,2018-04-03T01:40:27.040Z,"82km SSW of Puerto El Triunfo, El Salvador",earthquake,4.2,1.9,0.062,77,reviewed,us,us
+2018-01-11T19:57:23.600Z,10.6957,-84.8982,10,4.8,mb,,51,0.292,1.01,us,us2000ciha,2018-04-03T01:40:27.040Z,"17km ESE of Bijagua, Costa Rica",earthquake,5.4,1.9,0.086,42,reviewed,us,us
+2018-01-11T17:03:18.470Z,10.6577,-84.9196,10,5,mb,,56,0.277,1.23,us,us2000cidd,2018-04-03T01:40:26.040Z,"17km ESE of Bijagua, Costa Rica",earthquake,4.4,1.9,0.068,69,reviewed,us,us
+2018-01-11T16:00:26.070Z,10.6712,-84.8696,7.11,4.6,mb,,34,0.256,1.29,us,us2000ciby,2018-04-03T01:40:26.040Z,"21km ESE of Bijagua, Costa Rica",earthquake,5.5,6.7,0.078,49,reviewed,us,us
+2018-01-10T04:57:23.740Z,17.496,-83.2804,10,4.5,mb,,42,5.144,0.97,us,us1000c31j,2018-04-03T01:40:24.040Z,"69km E of Great Swan Island, Honduras",earthquake,7.7,1.9,0.053,105,reviewed,us,us
+2018-01-10T04:51:34.420Z,17.4402,-83.1983,10,4.6,mb,,37,5.167,0.92,us,us1000c31h,2018-04-03T01:40:24.040Z,"78km E of Great Swan Island, Honduras",earthquake,6.8,1.9,0.05,121,reviewed,us,us
+2018-01-10T04:12:02.150Z,17.4522,-83.6096,10,4.5,mb,,66,4.882,0.52,us,us1000c313,2018-04-03T01:40:24.040Z,"34km E of Great Swan Island, Honduras",earthquake,5.3,1.9,0.052,107,reviewed,us,us
+2018-01-10T02:51:33.290Z,17.4825,-83.52,19,7.5,mww,,12,4.581,0.82,us,us1000c2zy,2020-03-27T11:48:41.962Z,"44km E of Great Swan Island, Honduras",earthquake,5.8,1.7,0.035,79,reviewed,us,us
+2018-01-07T19:01:28.720Z,13.4757,-91.256,49.19,4.5,mb,,163,1.979,1.09,us,us1000c1sh,2018-03-23T23:16:54.040Z,"68km SW of Puerto San Jose, Guatemala",earthquake,8.9,11.2,0.074,54,reviewed,us,us
+2018-01-07T08:55:29.710Z,12.713,-88.1447,52.25,5.3,mww,,67,1.068,0.85,us,us1000c1nx,2018-03-23T23:16:53.040Z,"54km S of Intipuca, El Salvador",earthquake,3.1,4.9,0.054,33,reviewed,us,us
+2018-01-04T11:43:06.610Z,15.5007,-90.5691,40.45,4.6,mb,,142,1.696,1.49,us,us1000c0mp,2018-03-23T23:16:50.040Z,"20km NW of Santa Cruz Verapaz, Guatemala",earthquake,8,6.2,0.039,192,reviewed,us,us
+2018-01-03T13:38:40.300Z,13.1978,-89.2796,73.5,5.2,mww,,113,0.488,0.86,us,us1000bzb5,2020-03-27T11:47:52.754Z,"32km S of La Libertad, El Salvador",earthquake,6.3,5.9,0.061,26,reviewed,us,us
+2018-01-02T09:40:29.790Z,12.269,-86.6755,133.92,4.6,mb,,28,0.23,1.02,us,us1000byz2,2018-03-23T23:16:48.040Z,"7km S of La Paz Centro, Nicaragua",earthquake,6.2,4.1,0.034,260,reviewed,us,us
+2018-01-01T09:40:08.750Z,16.6729,-86.1807,16.34,4.5,mwr,,35,2.492,0.93,us,us1000byr6,2018-03-23T23:16:47.040Z,"42km NW of Guanaja, Honduras",earthquake,6.8,5.4,0.073,18,reviewed,us,us
