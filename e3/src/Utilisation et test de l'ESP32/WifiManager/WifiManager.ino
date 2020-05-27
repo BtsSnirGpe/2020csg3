@@ -20,7 +20,6 @@ void setup()
 
 void loop()
 {
-  //Dans cet exemple j'utilise la broche tactile D4 pour faire un reset des paramètres de connexion.
   if(touchRead(T0) < 50)
   {
     Serial.println("Suppression des reglages et redemarrage...");
